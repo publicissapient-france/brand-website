@@ -1,0 +1,60 @@
+.header {
+	height: 50px;
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid #B4B4B4;
+}
+
+.logo {
+	padding: 13px 0 12px 20px;
+}
+
+.menu {
+	width: 100%;
+	display: none;
+}
+
+.menu.menu-is-open {
+	display: block;
+}
+
+.menu-button {
+	display: block;
+	border: none;
+  	background: none;
+	width: 50px;
+	margin-right: 10px;
+	float: right;
+}
+
+.line {
+	height: 1.5px;
+	margin-bottom: 5px;
+	background-color: black;
+	position: relative;
+	transform: translateY(0);
+}
+
+.line-top {
+	width: 30px;
+	margin-left: 10px;
+}
+
+.line-bottom {
+	width: 15px;
+	margin-left: 25px;
+}
+
+.line-is-open {
+	background-color: #FE414D;
+}
+
+.line-top.line-is-open {
+	transform: translateY(5px) rotate(45deg);
+}
+
+.line-bottom.line-is-open {
+	transform: translateY(-1.5px) rotate(-45deg);
+	width: 30px;
+	margin-left: 10px;
+}
