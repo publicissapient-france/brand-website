@@ -20,14 +20,14 @@
 		</div>
 
 		<div class="menu">
-			<nav id="menu-box">
-				<li><a href="logos.php">LOGOS</a></li>
-				<li><a href="colors.php">COLORS</a></li>
-				<li><a href="fonts.php">FONTS</a></li>
-				<li><a href="assets.php">ASSETS</a></li>
-				<li><a href="slides.php">SLIDES</a></li>
-				<li><a href="about.php">ABOUT</a></li>
-			</nav>
+			<div class="menu-box">
+				<a class="menu-box-single" href="logos.php">LOGOS</a>
+				<a class="menu-box-single" href="colors.php">COLORS</a>
+				<a class="menu-box-single" href="fonts.php">FONTS</a>
+				<a class="menu-box-single" href="assets.php">ASSETS</a>
+				<a class="menu-box-single" href="slides.php">SLIDES</a>
+				<a class="menu-box-single" href="about.html">ABOUT</a>
+			</div>
 		</div>
 
 	</body>

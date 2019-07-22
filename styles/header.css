@@ -58,3 +58,26 @@
 	width: 30px;
 	margin-left: 10px;
 }
+
+.menu-box {
+	display: flex;
+	flex-direction: column;
+	margin-top: 30px;
+	padding-left: 30px;
+	background-color: white;
+	
+}
+
+.menu-box-single {
+	font-family: FuturaNext, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	color: black;
+	border-top: 1px solid #EEEEEE;
+	padding: 19px 0 15px 0;
+	text-decoration: none;
+}
+
+.menu-box-single:first-child {
+	border-top: none;
+}
