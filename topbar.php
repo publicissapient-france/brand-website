@@ -1,6 +1,6 @@
 <div class="header">
 	<div class="logo">
-		<a href="index.php"><img class="logo-img" src="./images/pse-logo.svg"/></a>
+		<a href="index.php"><img src="./images/pse-logo.svg"/></a>
 	</div>
 	<button class="menu-button">
 		<div class="line line-top"></div>
@@ -23,8 +23,9 @@
 	$(document).ready(function(){
 		$('.menu-button').click(function(){
 	        $('.menu').toggleClass('menu-is-open');
-	        $('.line-top').toggleClass('line-is-open')
-	        $('.line-bottom').toggleClass('line-is-open')
+	        $('.line-top').toggleClass('line-is-open');
+	        $('.line-bottom').toggleClass('line-is-open');
+	        $('.header').toggleClass('sticky');
 	    });
 	});
 </script>

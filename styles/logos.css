@@ -1,0 +1,66 @@
+.logos-title {
+	font-family: FuturaNext, sans-serif;
+	padding: 30px;
+	border-bottom: 1px solid #DEDEDE;
+}
+
+.logos-title h1 {
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.logos-title p {
+	padding-top: 20px;
+	color: #FE414D;
+	font-weight: 100;
+	font-size: 14px;
+}
+
+.logos-title p span {
+	font-weight: 400;
+}
+
+.pse-logo-rectangle-download{
+	height: 110px;
+	padding-left: 30px;
+	padding-right: 30px;
+	display: flex;
+	overflow: hidden;
+}
+
+.white{
+	background-color: black;
+}
+
+.logo-preview-rectangle {
+	width: 100%;
+	max-width: 482px;
+}
+
+.download-button svg {
+	fill: #FE414D;
+	position: relative;
+	right: 20px;
+}
+
+.pse-logo-square-download {
+	width: 50%;
+	max-height: 188px;
+	max-width: 241px;
+	border: 1px solid #DEDEDE;
+	display: flex;
+	
+}
+
+.pse-logo-square-download.white {
+	border-color: white;
+}
+
+.square-container {
+	display: flex;
+	justify-content: center;
+}
+
+.logo-preview-square{
+	width: 100%;
+}

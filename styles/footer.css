@@ -1,19 +1,32 @@
 .menu-footer {
+	width: 100%;
   	position: fixed;
   	bottom: 0;
 	display: flex;
+	justify-content: center;
 	height: 50px;
 	overflow: hidden;
-	padding-right: 22px;
-	padding-left: 22px;
 	background-color: white;
 	border-top: 1px solid #DEDEDE;
+	/* le footer apparait au dessus du contenu. penser à mettre une marge en bas*/
 }
 
 .menu-footer a {
-	margin-right: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
 }
 
 .active svg{
 	fill: #FE414D;
+}
+
+@media only screen and (min-width: 1024px) {
+	.menu-footer {
+		top: 0;
+		right: 60px;
+		width: auto;
+		z-index: 2;
+		background: none;
+		position: absolute;
+	}
 }

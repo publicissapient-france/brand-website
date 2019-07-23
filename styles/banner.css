@@ -1,0 +1,45 @@
+.banner {
+	width: 100%;
+	height: 100px;
+	background-color: #FE414D;
+	display: flex;
+}
+
+.banner h1 {
+	font-family: FuturaNext, sans-serif;
+	font-weight: 400;
+	font-size: 35px;
+	color: white;
+	align-self: center;
+	line-height: 100px;
+}
+
+.banner-logo {
+	display: none;
+	width: 100px;
+	height: 100px;
+}
+
+.banner-logo svg {
+	fill: white;
+	width: 100px;
+	height: 100px;
+}
+
+.active-logo {
+	display: flex;
+}
+
+.banner-text {
+	display: none;
+}
+
+.active-text {
+	display: flex;
+}
+
+@media only screen and (min-width: 1024px) {
+  .banner{
+    padding-left: 120px;
+  }
+}

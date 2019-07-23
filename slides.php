@@ -7,7 +7,7 @@
 	<body>
 		<?php $page = "slides"; ?>
 		<?php include('topbar.php');?>
-		Slides
+		<?php include('banner.php');?>
 		<?php include('footer.php');?>
 	</body>
 </html>

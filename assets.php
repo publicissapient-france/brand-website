@@ -7,7 +7,7 @@
 	<body>
 		<?php $page = "assets"; ?>
 		<?php include('topbar.php');?>
-		Assets
+		<?php include('banner.php');?>
 		<?php include('footer.php');?>
 	</body>
 </html>

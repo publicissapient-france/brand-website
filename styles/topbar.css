@@ -87,3 +87,10 @@
 .menu-box-single:first-child {
 	border-top: none;
 }
+
+.sticky {
+	background-color: white;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}

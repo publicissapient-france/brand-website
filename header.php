@@ -3,4 +3,6 @@
 <link rel="stylesheet" type="text/css" href="./styles/global.css">
 <link rel="stylesheet" type="text/css" href="./styles/index.css">
 <link rel="stylesheet" type="text/css" href="./styles/topbar.css">
+<link rel="stylesheet" type="text/css" href="./styles/banner.css">
+<link rel="stylesheet" type="text/css" href="./styles/logos.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>

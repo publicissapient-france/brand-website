@@ -7,7 +7,7 @@
 	<body>
 		<?php $page = "colors"; ?>
 		<?php include('topbar.php');?>
-		Colors
+		<?php include('banner.php');?>
 		<?php include('footer.php');?>
 	</body>
 </html>

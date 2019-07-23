@@ -7,7 +7,7 @@
 	<body>
 		<?php $page = "fonts"; ?>
 		<?php include('topbar.php');?>
-		Fonts
+		<?php include('banner.php');?>
 		<?php include('footer.php');?>
 	</body>
 </html>
