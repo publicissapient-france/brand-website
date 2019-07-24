@@ -20,21 +20,48 @@
 	font-weight: 400;
 }
 
-.pse-logo-rectangle-download{
+/*-------*/
+
+.pse-logo-download{
+	display: flex;
+	justify-content: center;
+}
+
+.pse-logo-download.rectangle{
 	height: 110px;
 	padding-left: 30px;
 	padding-right: 30px;
-	display: flex;
-	overflow: hidden;
+}
+
+.pse-logo-download.square {
+	width: 50%;
+	max-height: 188px;
+	border: 1px solid #DEDEDE;
+	padding: 10px;
 }
 
 .white{
 	background-color: black;
 }
 
-.logo-preview-rectangle {
+/*-------*/
+
+.logo-preview {
 	width: 100%;
+}
+
+.logo-preview.rectangle {
 	max-width: 482px;
+}
+
+.logo-preview.square{
+	max-width: 188px;
+}
+
+/*-------*/
+
+.download-button {
+	width: 1px;
 }
 
 .download-button svg {
@@ -43,24 +70,36 @@
 	right: 20px;
 }
 
-.pse-logo-square-download {
-	width: 50%;
-	max-height: 188px;
-	max-width: 241px;
-	border: 1px solid #DEDEDE;
-	display: flex;
-	
+.download-button.square svg {
+	right: 40px;
 }
 
-.pse-logo-square-download.white {
-	border-color: white;
-}
+/*-------*/
 
 .square-container {
 	display: flex;
 	justify-content: center;
 }
 
-.logo-preview-square{
-	width: 100%;
+/*-------*/
+
+@media only screen and (min-width: 1024px) {
+
+	.logos-title {
+		border-bottom: none;
+	}
+
+	.pse-logo-download.rectangle {
+		border: 1px solid #DEDEDE;
+	}
+
+	.logos-download {
+		display: flex;
+		padding-left: 30px;
+    	padding-right: 30px;
+	}
+
+	.pse-logo-download, .square-container {
+		width: 100%;
+	}
 }
