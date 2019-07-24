@@ -1,14 +1,14 @@
-.slides-title {
+.assets-title {
 	padding: 30px;
 }
 
-.slides-link p {
+.assets-link p {
 	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 }
 
-.link-to-slide {
+.link-to-assets {
 	max-width: 375px;
 	height: 50px;
     padding-left: 30px;
@@ -20,6 +20,19 @@
     color: black;
 }
 
-.link-to-slide svg {
+.link-to-assets svg {
 	fill: #FE414D;
+}
+
+@media only screen and (max-width: 405px) {
+	.assets-image, .assets-image img {
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 405px) {
+	.assets-image {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
 }

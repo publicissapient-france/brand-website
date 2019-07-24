@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+	<head>
 		<title>Titre intéressant à changer plus tard</title>
 		<?php include('header.php'); ?>
 	</head>

@@ -7,4 +7,7 @@
 <link rel="stylesheet" type="text/css" href="./styles/banner.css">
 <link rel="stylesheet" type="text/css" href="./styles/logos.css">
 <link rel="stylesheet" type="text/css" href="./styles/slides.css">
+<link rel="stylesheet" type="text/css" href="./styles/assets.css">
+<link rel="stylesheet" type="text/css" href="./styles/fonts.css">
+<link rel="stylesheet" type="text/css" href="./styles/colors.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
