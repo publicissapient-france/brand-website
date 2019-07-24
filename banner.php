@@ -21,6 +21,6 @@
 		<h1 class="banner-text <?php if($page=='colors'){?>active-text<?}?>">COLORS</h1>
 		<h1 class="banner-text <?php if($page=='fonts'){?>active-text<?}?>">FONTS</h1>
 		<h1 class="banner-text <?php if($page=='assets'){?>active-text<?}?>">ASSETS</h1>
-		<h1 class="banner-text <?php if($page=='slides'){?>active-text<?}?>">SLIDES</h1>
+		<h1 class="banner-text <?php if($page=='slides'){?>active-text<?}?>">SLIDERS</h1>
 	</div>
 </div>

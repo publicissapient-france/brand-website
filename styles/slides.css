@@ -1,0 +1,24 @@
+.slides-title {
+	padding: 30px;
+}
+
+.slides-link p {
+	font-family: FuturaNext, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.link-to-slide {
+	width: min-content;
+	padding-left: 30px;
+	padding-right: 30px;
+	display: flex;
+	text-decoration: none;
+	color: black;
+	line-height: 50px;
+}
+
+.link-to-slide svg {
+	margin-left: 200px;
+	fill: #FE414D;
+}
