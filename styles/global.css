@@ -16,6 +16,12 @@
   src: url("../../fonts/futura-next/FuturaNext_Medium.otf") format("opentype");
 }
 
+@font-face {
+  font-family: 'MinionPro';
+  font-weight: 300;
+  src: url("../../fonts/minio/MinionPro-Regular.otf") format("opentype");
+}
+
 * {
     margin: 0;
     padding: 0;

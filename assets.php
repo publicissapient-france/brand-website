@@ -20,7 +20,7 @@
 				</a>
 			</div>
 			<div class="assets-image">
-				<img src="../images/stock-pictures.png"/>
+				<img src="../images/stock-pictures-3x.png"/>
 			</div>
 		</div>
 

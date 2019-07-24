@@ -1,0 +1,80 @@
+.fonts-title {
+	padding: 30px 30px 10px 30px;
+}
+
+.fonts-title h1, .red-text {
+	margin-bottom: 20px;
+}
+
+.fonts-link p, .fonts-title p {
+	font-family: FuturaNext, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.red-text {
+	color: #FE414D;
+}
+
+.fonts-title span {
+	text-decoration: underline;
+	color: #FE414D;
+}
+
+.fonts-download {
+	max-width: 375px;
+	height: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.fonts-download svg {
+	fill: #FE414D;
+}
+
+.size {
+	color: #B4B4B4;
+}
+
+.font-preview {
+	border-top: 1px solid #DEDEDE;
+	margin: 20px 30px 0 30px;
+	padding-top: 30px;
+}
+
+.font-preview h1 {
+	margin-bottom: 20px;
+}
+
+.font-preview h2 {
+	color: #FE414D;
+	font-family: FuturaNext, sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+.font-preview p {
+	color: #FE414D;
+	font-family: FuturaNext, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+.font-preview img {
+	width: 100%;
+	max-width: 400px;
+	margin-bottom: 15px;
+}
+
+.minion-pro {
+	font-family: MinionPro, serif;
+	font-weight: 300;
+	font-size: 24px;
+}
