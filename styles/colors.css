@@ -1,0 +1,129 @@
+ .colors-title {
+	padding: 30px;
+}
+
+.colors-title p {
+	font-family: FuturaNext, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	opacity: 0.6;
+	margin-top: 3px;
+}
+
+.main-colors {
+	display: flex;
+	flex-wrap: wrap;
+	border-bottom: 1px solid #DEDEDE;
+}
+
+.main-colors button {
+	height: calc(375px / 2);
+	width: calc(375px / 2);
+	padding: 10px;
+	text-align: left;
+	border: none;
+}
+
+.not-main-colors {
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.not-main-colors button{
+	height: 50px;
+    width: calc(375px / 2);
+    text-align: left;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 5px;
+	font-family: FuturaNext, sans-serif;
+}
+
+.color-content{
+	font-family: FuturaNext, sans-serif;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.color-title {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.color-attributes {
+	line-height: 24px;
+}
+
+.primary-secondary {
+	font-weight: 100;
+}
+
+.color-attributes {
+	font-weight: 400;
+}
+
+.color-black {
+	background-color: black;
+	color: white;
+	fill: white;
+}
+
+.color-ps-red {
+	background-color: #FE414D;
+	color: white;
+	fill: white;
+}
+
+.color-white {
+	background-color: white;
+}
+
+.color-blue {
+	background-color: #079FFF;
+	color: white;
+	fill: white;
+}
+
+.color-yellow {
+	background-color: #FFE63B;
+}
+
+.color-turquoise {
+	background-color: #00E6C3
+}
+
+.color-grey {
+	background-color: #B4B4B4;
+}
+
+.color-orange {
+	background-color: #FF7B5C;
+	color: white;
+	fill: white;
+}
+
+.color-sky-blue {
+	background-color: #04C2E2;
+	color: white;
+	fill: white;
+}
+
+.color-light-orange {
+	background-color: #F5AA6D;
+	color: white;
+	fill: white;
+}
+
+.color-purple {
+	background-color: #9E97F2;
+	color: white;
+	fill: white;
+}
