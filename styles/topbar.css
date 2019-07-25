@@ -18,7 +18,7 @@
 	z-index: 1;
 	background-color: white;
 	overflow-x: hidden;
-	transition: 0.5s;
+	transition: 0.4s;
 }
 
 .menu.menu-is-open {
@@ -43,7 +43,7 @@
 	margin-bottom: 5px;
 	background-color: black;
 	position: relative;
-	transition: 0.5s;
+	transition: 0.4s;
 }
 
 .line-top {
