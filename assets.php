@@ -2,11 +2,11 @@
 <html>
 	<head>
 		<title>Assets</title>
-		<?php include('header.php'); ?>
+		<?php include('header.html'); ?>
 	</head>
 	<body>
 		<?php $page = "assets"; ?>
-		<?php include('topbar.php');?>
+		<?php include('topbar.html');?>
 		<?php include('banner.php');?>
 
 		<div class="content">

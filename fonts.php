@@ -2,11 +2,11 @@
 <html>
 <head>
 		<title>Fonts</title>
-		<?php include('header.php'); ?>
+		<?php include('header.html'); ?>
 	</head>
 	<body>
 		<?php $page = "fonts"; ?>
-		<?php include('topbar.php');?>
+		<?php include('topbar.html');?>
 		<?php include('banner.php');?>
 
 		<div class="content">
