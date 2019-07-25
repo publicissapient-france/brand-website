@@ -18,18 +18,20 @@
 
 .main-colors button {
 	height: calc(375px / 2);
-	width: calc(375px / 2);
+	width: 50%;
+	max-width: calc(375px / 2);
 	padding: 10px;
 	text-align: left;
 	border: none;
 }
 
-.color-black:hover {
-	box-shadow: 0 0 0 100px rgba(255, 255, 255, 0.5) inset !important;
+.main-colors button:hover, .not-main-colors button:hover {
+	box-shadow: 0 0 0 1000px rgba(0, 0, 0, 0.5) inset;
+	transition: 0.5s;
 }
 
-.main-colors button:hover, .not-main-colors button:hover {
-	box-shadow: 0 0 0 100px rgba(0, 0, 0, 0.5) inset;
+.color-black:hover {
+	box-shadow: 0 0 0 1000px rgba(255, 255, 255, 0.5) inset !important;
 }
 
 .not-main-colors {
@@ -39,7 +41,8 @@
 
 .not-main-colors button {
 	height: 50px;
-    width: calc(375px / 2);
+	width: 50%;
+    max-width: calc(375px / 2);
     text-align: left;
     border: none;
     display: flex;
@@ -100,8 +103,8 @@
 .color-light-gray {background-color: #DEDEDE;}
 
 .copy-text {
-  background-color: rgba(85, 85, 85, 0.9);
-  color: #fff;
+  background-color: rgba(85, 85, 85, 0.95);
+  color: white;
   border-radius: 6px;
   padding: 5px;
   position: absolute;
@@ -109,17 +112,14 @@
   font-family: FuturaNext, sans-serif;
   font-weight: 700;
   font-size: 11px;
-  line-height: 11px;
-  width: 80px;
+  width: 88px;
   text-align: center;
+  transition: 0.5s;
 }
 
 .main-colors .copy-text {
 	margin-top: 52px;
-	margin-left: 38px;
-}
-
-.not-main-colors .copy-text {
+	margin-left: 35px;
 }
 
 .main-colors button:hover .copy-text, .not-main-colors button:hover .copy-text{
@@ -127,21 +127,14 @@
   opacity: 1;
 }
 
-@media only screen and (min-width: 435px) {
+@media only screen and (min-width: 447px) {
 	.main-colors, .not-main-colors {
-		margin-right: 30px;
 		margin-left: 30px;
 	}
 }
 
-@media only screen and (min-width: 376px) and (max-width: 434px){
+@media only screen and (min-width: 376px) and (max-width: 446px){
 	.main-colors, .not-main-colors {
 		justify-content: center;
-	}
-}
-
-@media only screen and (max-width: 375px) {
-	.main-colors button, .not-main-colors button {
-		width: 50%;
 	}
 }

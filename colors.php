@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Titre intéressant à changer plus tard</title>
+		<title>Colors</title>
 		<?php include('header.php'); ?>
 	</head>
 	<body>
@@ -48,7 +48,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 254, 65, 77</p>
-							<p>CMYK: 0, 100, 65, 0</p>
+							<p>CMYK: 0, 74, 70, 0</p>
 							<p>Coated: PMS 199 C</p>
 							<p>Uncoated: PMS 199 U</p>
 						</div>
@@ -66,8 +66,8 @@
 							<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 						</div>
 						<div class="color-attributes">
-							<p>RGB: 238, 238, 238</p>
-							<p>CMYK: 0, 0, 0, 10</p>
+							<p>RGB: 255, 255, 255</p>
+							<p>CMYK: 0, 0, 0, 0</p>
 							<p>Coated: PMS Black 10%</p>
 							<p>Uncoated: PMS Black 10%</p>
 						</div>
@@ -86,7 +86,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 7, 159, 255</p>
-							<p>CMYK: 70, 33, 0, 10</p>
+							<p>CMYK: 97, 38, 0, 0</p>
 							<p>Coated: PMS 279 C</p>
 							<p>Uncoated: PMS 2925 U</p>
 						</div>
@@ -105,7 +105,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 255, 230, 59</p>
-							<p>CMYK: 0, 0, 100, 0</p>
+							<p>CMYK: 0, 10, 77, 0</p>
 						</div>
 					</div>
 				</button>
@@ -122,7 +122,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 0, 230, 195</p>
-							<p>CMYK: 62, 0, 26, 0</p>
+							<p>CMYK: 100, 0, 15, 10</p>
 						</div>
 					</div>
 				</button>
@@ -139,7 +139,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 180, 180, 180</p>
-							<p>CMYK: 21, 11, 9, 22</p>
+							<p>CMYK: 0, 0, 0, 29</p>
 						</div>
 					</div>
 				</button>
@@ -211,9 +211,9 @@
 				dummy.select();
 				document.execCommand("copy");
 				document.body.removeChild(dummy);
-				$(".copy-text").text("Color copied");
+				$(".copy-text").text(e.currentTarget.value+" copied");
 			});
-			
+
 			$("button").mouseenter(function(){
 				$(".copy-text").text("Click to copy");
 			});

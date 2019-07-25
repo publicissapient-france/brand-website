@@ -6,13 +6,15 @@
 	max-width: 405px;
 }
 
-@media only screen and (max-width: 405px) {
-	.assets-image, .assets-image img {
+@media only screen and (max-width: 465px) {
+	.assets-image {
 		width: 100%;
+		display: flex;
+		justify-content: center;
 	}
 }
 
-@media only screen and (min-width: 406px) {
+@media only screen and (min-width: 466px) {
 	.assets-image {
 		padding-left: 30px;
 		padding-right: 30px;

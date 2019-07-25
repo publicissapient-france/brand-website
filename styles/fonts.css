@@ -2,7 +2,7 @@
 	padding: 30px 30px 10px 30px;
 }
 
-.fonts-title h1, .red-text {
+.fonts-title h1 {
 	margin-bottom: 20px;
 }
 
@@ -13,6 +13,7 @@
 }
 
 .red-text {
+	margin-bottom: 20px;
 	color: #FE414D;
 }
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Titre intéressant à changer plus tard</title>
+		<title>Logos</title>
 		<?php include('header.php'); ?>
 	</head>
 	<body>
