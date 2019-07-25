@@ -24,12 +24,20 @@
 	border: none;
 }
 
+.color-black:hover {
+	box-shadow: 0 0 0 100px rgba(255, 255, 255, 0.5) inset !important;
+}
+
+.main-colors button:hover, .not-main-colors button:hover {
+	box-shadow: 0 0 0 100px rgba(0, 0, 0, 0.5) inset;
+}
+
 .not-main-colors {
 	display: flex;
     flex-wrap: wrap;
 }
 
-.not-main-colors button{
+.not-main-colors button {
 	height: 50px;
     width: calc(375px / 2);
     text-align: left;
@@ -42,7 +50,7 @@
 	font-family: FuturaNext, sans-serif;
 }
 
-.color-content{
+.color-content {
 	font-family: FuturaNext, sans-serif;
     width: 100%;
     height: 100%;
@@ -90,6 +98,34 @@
 .color-magenta {background-color: #D576C8;}
 .color-light-green {background-color: #9CE361;}
 .color-light-gray {background-color: #DEDEDE;}
+
+.copy-text {
+  background-color: rgba(85, 85, 85, 0.9);
+  color: #fff;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  opacity: 0;
+  font-family: FuturaNext, sans-serif;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 11px;
+  width: 80px;
+  text-align: center;
+}
+
+.main-colors .copy-text {
+	margin-top: 52px;
+	margin-left: 38px;
+}
+
+.not-main-colors .copy-text {
+}
+
+.main-colors button:hover .copy-text, .not-main-colors button:hover .copy-text{
+  visibility: visible;
+  opacity: 1;
+}
 
 @media only screen and (min-width: 435px) {
 	.main-colors, .not-main-colors {

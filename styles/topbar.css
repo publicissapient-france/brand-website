@@ -87,6 +87,10 @@
 	text-decoration: none;
 }
 
+.menu-box-single:hover {
+	color: #FE414D;
+}
+
 .menu-box-single:first-child {
 	border-top: none;
 }

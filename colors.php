@@ -18,6 +18,7 @@
 
 			<div class="main-colors">
 				<button class="color-black white-font" value="#000000">
+					<span class="copy-text">Click to copy</span>
 					<div class="color-content">
 						<div class="color-title">
 							<div class="color-name">
@@ -36,6 +37,7 @@
 				</button>
 
 				<button class="color-ps-red white-font" value="#FE414D">
+					<span class="copy-text">Click to copy</span>
 					<div class="color-content">
 						<div class="color-title">
 							<div class="color-name">
@@ -54,6 +56,7 @@
 				</button>
 
 				<button class="color-white" value="#FFFFFF">
+					<span class="copy-text">Click to copy</span>
 					<div class="color-content">
 						<div class="color-title">
 							<div class="color-name">
@@ -72,6 +75,7 @@
 				</button>
 
 				<button class="color-blue white-font" value="#079FFF">
+					<span class="copy-text">Click to copy</span>
 					<div class="color-content">
 						<div class="color-title">
 							<div class="color-name">
@@ -90,6 +94,7 @@
 				</button>
 
 				<button class="color-yellow" value="#FFE63B">
+					<span class="copy-text">Click to copy</span>
 					<div class="color-content">
 						<div class="color-title">
 							<div class="color-name">
@@ -106,6 +111,7 @@
 				</button>
 
 				<button class="color-turquoise" value="#00E6C3">
+					<span class="copy-text">Click to copy</span>
 					<div class="color-content">
 						<div class="color-title">
 							<div class="color-name">
@@ -122,6 +128,7 @@
 				</button>
 
 				<button class="color-grey" value="#B4B4B4">
+					<span class="copy-text">Click to copy</span>
 					<div class="color-content">
 						<div class="color-title">
 							<div class="color-name">
@@ -144,47 +151,55 @@
 			<div class="not-main-colors">
 
 				<button class="color-orange" value=#FF7B5C>
+					<span class="copy-text">Click to copy</span>
 					<h1>#FF7B5C</h1>
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
 
 				<button class="color-sky-blue" value=#04C2E2>
+					<span class="copy-text">Click to copy</span>
 					<h1>#04C2E2</h1>
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
 
 				<button class="color-light-orange" value=#F5AA6D>
+					<span class="copy-text">Click to copy</span>
 					<h1>#F5AA6D</h1>
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
 
 				<button class="color-purple" value=#9E97F2>
+					<span class="copy-text">Click to copy</span>
 					<h1>#9E97F2</h1>
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
 
 				<button class="color-light-yellow" value=#FFD53B>
+					<span class="copy-text">Click to copy</span>
 					<h1>#FFD53B</h1>
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
 
 				<button class="color-magenta" value=#D576C8>
+					<span class="copy-text">Click to copy</span>
 					<h1>#D576C8</h1>
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
 
 				<button class="color-light-green" value=#9CE361>
+					<span class="copy-text">Click to copy</span>
 					<h1>#9CE361</h1>
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
 
 				<button class="color-light-gray" value=#DEDEDE>
+					<span class="copy-text">Click to copy</span>
 					<h1>#DEDEDE</h1>
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
 
 			</div>
-			
+
 		</div>
 
 		<script> 
@@ -195,7 +210,12 @@
 				document.getElementById("dummy_id").value = e.currentTarget.value;
 				dummy.select();
 				document.execCommand("copy");
-				document.body.removeChild(dummy); 
+				document.body.removeChild(dummy);
+				$(".copy-text").text("Color copied");
+			});
+			
+			$("button").mouseenter(function(){
+				$(".copy-text").text("Click to copy");
 			});
 
 		

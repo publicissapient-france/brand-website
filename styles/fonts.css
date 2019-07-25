@@ -6,7 +6,7 @@
 	margin-bottom: 20px;
 }
 
-.fonts-link p, .fonts-title p {
+.fonts-title p {
 	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 14px;
@@ -19,22 +19,6 @@
 .fonts-title span {
 	text-decoration: underline;
 	color: #FE414D;
-}
-
-.fonts-download {
-	max-width: 375px;
-	height: 50px;
-    padding-left: 30px;
-    padding-right: 30px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    text-decoration: none;
-    color: black;
-}
-
-.fonts-download svg {
-	fill: #FE414D;
 }
 
 .size {
