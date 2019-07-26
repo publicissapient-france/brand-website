@@ -27,6 +27,13 @@
     padding: 0;
 } 
 
+:root {
+  --ps-red: #FE414D;
+  --black: #000000;
+  --white: #FFFFFF;
+  --light-grey: #DEDEDE;
+}
+
 .content {
   margin-bottom: 51px;
 }
@@ -40,12 +47,12 @@
   justify-content: space-between;
   align-items: center;
   text-decoration: none;
-  color: black;
-  fill: #FE414D;
+  color: var(--black);
+  fill: var(--ps-red);
 }
 
 .download-box:hover .on-hover{
-  color: #FE414D;
+  color: var(--ps-red);
   text-decoration: underline;
 }
 

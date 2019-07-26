@@ -1,6 +1,6 @@
 .banner {
 	height: 100px;
-	background-color: #FE414D;
+	background-color: var(--ps-red);
 	display: flex;
 }
 
@@ -8,7 +8,7 @@
 	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 35px;
-	color: white;
+	color: var(--white);
 	align-self: center;
 	line-height: 100px;
 }
@@ -20,7 +20,7 @@
 }
 
 .banner-logo svg {
-	fill: white;
+	fill: var(--white);
 	width: 100px;
 	height: 100px;
 }

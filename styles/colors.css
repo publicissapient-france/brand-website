@@ -13,7 +13,7 @@
 .main-colors {
 	display: flex;
 	flex-wrap: wrap;
-	border-bottom: 1px solid #DEDEDE;
+	border-bottom: 1px solid var(--light-grey);
 }
 
 .main-colors button {
@@ -28,6 +28,7 @@
 .main-colors button:hover, .not-main-colors button:hover {
 	box-shadow: 0 0 0 1000px rgba(0, 0, 0, 0.5) inset;
 	transition: 0.5s;
+	cursor: pointer;
 }
 
 .color-black:hover {
@@ -82,13 +83,13 @@
 }
 
 .white-font, .not-main-colors h1, .not-main-colors svg {
-	color: white;
-	fill: white;
+	color: var(--white);
+	fill: var(--white);
 }
 
-.color-black {background-color: black;}
-.color-ps-red {background-color: #FE414D;}
-.color-white {background-color: white;}
+.color-black {background-color: var(--black);}
+.color-ps-red {background-color: var(--ps-red);}
+.color-white {background-color: var(--white);}
 .color-blue {background-color: #079FFF;}
 .color-yellow {background-color: #FFE63B;}
 .color-turquoise {background-color: #00E6C3}
@@ -100,11 +101,11 @@
 .color-light-yellow {background-color: #FFD53B;}
 .color-magenta {background-color: #D576C8;}
 .color-light-green {background-color: #9CE361;}
-.color-light-gray {background-color: #DEDEDE;}
+.color-light-grey {background-color: var(--light-grey);}
 
 .copy-text {
   background-color: rgba(85, 85, 85, 0.95);
-  color: white;
+  color: var(--white);
   border-radius: 6px;
   padding: 5px;
   position: absolute;

@@ -6,9 +6,8 @@
 	justify-content: center;
 	height: 50px;
 	overflow: hidden;
-	background-color: white;
-	border-top: 1px solid #DEDEDE;
-	/* le footer apparait au dessus du contenu. penser à mettre une marge en bas*/
+	background-color: var(--white);
+	border-top: 1px solid var(--light-grey);
 }
 
 .menu-footer a {
@@ -17,7 +16,7 @@
 }
 
 .active svg{
-	fill: #FE414D;
+	fill: var(--ps-red);
 }
 
 @media only screen and (min-width: 1024px) {

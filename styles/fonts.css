@@ -14,12 +14,12 @@
 
 .red-text {
 	margin-bottom: 20px;
-	color: #FE414D;
+	color: var(--ps-red);
 }
 
 .fonts-title span {
 	text-decoration: underline;
-	color: #FE414D;
+	color: var(--ps-red);
 }
 
 .size {
@@ -27,7 +27,7 @@
 }
 
 .font-preview {
-	border-top: 1px solid #DEDEDE;
+	border-top: 1px solid var(--light-grey);
 	margin: 20px 30px 0 30px;
 	padding-top: 30px;
 }
@@ -37,7 +37,7 @@
 }
 
 .font-preview h2 {
-	color: #FE414D;
+	color: var(--ps-red);
 	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 16px;
@@ -45,7 +45,7 @@
 }
 
 .font-preview p {
-	color: #FE414D;
+	color: var(--ps-red);
 	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 14px;

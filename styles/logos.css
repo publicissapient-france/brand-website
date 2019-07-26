@@ -6,7 +6,7 @@
 .logos-title p {
 	font-family: FuturaNext, sans-serif;
 	padding-top: 20px;
-	color: #FE414D;
+	color: var(--ps-red);
 	font-weight: 100;
 	font-size: 14px;
 }
@@ -60,7 +60,7 @@
 }
 
 .download-button svg {
-	fill: #FE414D;
+	fill: var(--ps-red);
 	position: relative;
 	right: 20px;
 }

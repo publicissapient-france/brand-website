@@ -16,7 +16,7 @@
 	width: 100%;
 	position: fixed;
 	z-index: 1;
-	background-color: white;
+	background-color: var(--white);
 	overflow-x: hidden;
 	transition: 0.4s;
 }
@@ -34,6 +34,10 @@
 	float: right;
 }
 
+.menu-button:hover {
+	cursor: pointer;
+}
+
 .menu-button:focus {
 	outline: none;
 }
@@ -41,7 +45,7 @@
 .line {
 	height: 2px;
 	margin-bottom: 5px;
-	background-color: black;
+	background-color: var(--black);
 	position: relative;
 	transition: 0.4s;
 }
@@ -57,7 +61,7 @@
 }
 
 .line-is-open {
-	background-color: #FE414D;
+	background-color: var(--ps-red);
 }
 
 .line-top.line-is-open {
@@ -81,14 +85,14 @@
 	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 14px;
-	color: black;
+	color: var(--black);
 	border-top: 1px solid #EEEEEE;
 	padding: 19px 0 15px 0;
 	text-decoration: none;
 }
 
 .menu-box-single:hover {
-	color: #FE414D;
+	color: var(--ps-red);
 }
 
 .menu-box-single:first-child {
@@ -96,7 +100,7 @@
 }
 
 .sticky {
-	background-color: white;
+	background-color: var(--white);
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
