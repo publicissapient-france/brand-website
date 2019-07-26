@@ -2,12 +2,11 @@
 	padding: 30px 30px 10px 30px;
 }
 
-.fonts-title h1 {
+.fonts-title h2 {
 	margin-bottom: 20px;
 }
 
 .fonts-title p {
-	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 }
@@ -22,7 +21,7 @@
 	color: var(--ps-red);
 }
 
-.size {
+.text-file-size {
 	color: #B4B4B4;
 }
 
@@ -32,13 +31,12 @@
 	padding-top: 30px;
 }
 
-.font-preview h1 {
+.font-preview h3 {
 	margin-bottom: 20px;
 }
 
-.font-preview h2 {
+.font-preview h4 {
 	color: var(--ps-red);
-	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 16px;
 	margin-bottom: 20px;
@@ -46,7 +44,6 @@
 
 .font-preview p {
 	color: var(--ps-red);
-	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 	margin-bottom: 10px;

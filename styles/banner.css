@@ -5,7 +5,6 @@
 }
 
 .banner h1 {
-	font-family: FuturaNext, sans-serif;
 	font-weight: 400;
 	font-size: 35px;
 	color: var(--white);
@@ -14,7 +13,6 @@
 }
 
 .banner-logo {
-	display: none;
 	width: 100px;
 	height: 100px;
 }
@@ -23,18 +21,6 @@
 	fill: var(--white);
 	width: 100px;
 	height: 100px;
-}
-
-.active-logo {
-	display: flex;
-}
-
-.banner-text {
-	display: none;
-}
-
-.active-text {
-	display: flex;
 }
 
 @media only screen and (min-width: 1024px) {

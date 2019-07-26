@@ -25,7 +25,11 @@
 * {
     margin: 0;
     padding: 0;
-} 
+}
+
+a, h1, h2, h3, h4, p, span {
+  font-family: FuturaNext, sans-serif;
+}
 
 :root {
   --ps-red: #FE414D;
@@ -57,16 +61,15 @@
 }
 
 .download-link p {
-  font-family: FuturaNext, sans-serif;
   font-weight: 400;
   font-size: 14px;
 }
 
-h1 {
-  font-family: FuturaNext, sans-serif;
+h2 {
   font-weight: 700;
   font-size: 20px;
 }
+
 
 @media only screen and (min-width: 1024px) {
   .content {

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Index</title>
+		<title>Brand</title>
 		<?php include('header.html'); ?>
+		<link rel="stylesheet" type="text/css" href="./styles/index.css">
 	</head>
 
 	<body>
-		<?php $page = "index"; ?>
 		<?php include('topbar.html');?>
 		<div class="branding-background"></div>
 		<?php include('footer.php');?>

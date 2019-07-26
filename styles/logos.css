@@ -4,7 +4,6 @@
 }
 
 .logos-title p {
-	font-family: FuturaNext, sans-serif;
 	padding-top: 20px;
 	color: var(--ps-red);
 	font-weight: 100;
@@ -35,7 +34,7 @@
 	padding: 10px;
 }
 
-.white{
+.dark {
 	background-color: black;
 }
 
