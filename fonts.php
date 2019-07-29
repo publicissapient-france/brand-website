@@ -11,10 +11,12 @@
 		<?php include('topbar.html');?>
 		
 		<div class="banner">
-			<div class="banner-logo">
-				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}</style><clipPath id="a"><rect class="a" width="50" height="50"/></clipPath></defs><g class="b"><rect class="a" width="50" height="50"/><g transform="translate(-597 -1056)"><path d="M613.1,1092.2l2.583-5.591h12.634l2.583,5.591h1.763L622,1069.117,611.337,1092.2Zm8.9-19.268,5.579,12.078H616.421Z"/></g></g></svg>
+			<div class="banner-content">
+				<div class="banner-logo">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}</style><clipPath id="a"><rect class="a" width="50" height="50"/></clipPath></defs><g class="b"><rect class="a" width="50" height="50"/><g transform="translate(-597 -1056)"><path d="M613.1,1092.2l2.583-5.591h12.634l2.583,5.591h1.763L622,1069.117,611.337,1092.2Zm8.9-19.268,5.579,12.078H616.421Z"/></g></g></svg>
+				</div>
+				<h1>FONTS</h1>
 			</div>
-			<h1>FONTS</h1>
 		</div>
 
 		<div class="content">

@@ -11,10 +11,12 @@
 		<?php include('topbar.html');?>
 
 		<div class="banner">
-			<div class="banner-logo">
-				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}</style><clipPath id="a"><rect class="a" width="50" height="50"/></clipPath></defs><g class="b"><rect class="a" width="50" height="50"/><path d="M553.75,1091.75h-21.5v-21.5h21.5Zm-20-1.5h18.5v-18.5h-18.5Z" transform="translate(-518 -1056)"/></g></svg>
+			<div class="banner-content">
+				<div class="banner-logo">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}</style><clipPath id="a"><rect class="a" width="50" height="50"/></clipPath></defs><g class="b"><rect class="a" width="50" height="50"/><path d="M553.75,1091.75h-21.5v-21.5h21.5Zm-20-1.5h18.5v-18.5h-18.5Z" transform="translate(-518 -1056)"/></g></svg>
+				</div>
+				<h1>COLORS</h1>
 			</div>
-			<h1>COLORS</h1>
 		</div>
 
 		<div class="content">
