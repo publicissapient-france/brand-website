@@ -3,8 +3,8 @@
 	<head>
 		<title>Brand - Fonts</title>
 		<?php include('header.html'); ?>
-	<link rel="stylesheet" type="text/css" href="./styles/banner.css">
-	<link rel="stylesheet" type="text/css" href="./styles/fonts.css">
+		<link rel="stylesheet" type="text/css" href="./styles/banner.css">
+		<link rel="stylesheet" type="text/css" href="./styles/fonts.css">
 	</head>
 	<body>
 		<?php $page = "fonts"; ?>

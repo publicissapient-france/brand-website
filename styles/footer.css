@@ -27,4 +27,8 @@
 		background: none;
 		position: absolute;
 	}
+
+	.menu-footer.sticky-footer {
+		position: fixed;
+	}
 }

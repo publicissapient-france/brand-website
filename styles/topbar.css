@@ -17,11 +17,14 @@
 	z-index: 1;
 	background-color: var(--white);
 	overflow-x: hidden;
-	transition: 0.4s;
 }
 
-.menu.menu-is-open {
+.menu-is-open {
 	height: 100%;
+}
+
+.activated {
+	transition: 0.4s;
 }
 
 .menu-button {
@@ -102,4 +105,16 @@
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
+}
+
+@media only screen and (min-width: 1024px) {
+	.menu {
+		height: 100%;
+	    left: 100%;
+	    border-left: solid 1px #B4B4B4;
+	}
+
+	.menu-is-open {
+		left: 72%;
+	}
 }
