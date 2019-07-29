@@ -115,6 +115,6 @@
 	}
 
 	.menu-is-open {
-		left: 72%;
+		left: calc(100% - 400px);
 	}
 }
