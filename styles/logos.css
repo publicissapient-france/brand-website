@@ -14,8 +14,6 @@
 	font-weight: 400;
 }
 
-/*-------*/
-
 .pse-logo-download, .click-to-download{
 	position: relative;
 	display: flex;
@@ -39,8 +37,6 @@
 	background-color: black;
 }
 
-/*-------*/
-
 .logo-preview, .click-to-download {
 	width: 100%;
 }
@@ -53,28 +49,22 @@
 	max-width: 188px;
 }
 
-/*-------*/
-
 .download-button svg {
 	position: absolute;
 	fill: var(--ps-red);
-	left: 97%;
+	left: calc(100% - 15px);
 	bottom: 60%;
 }
 
 .download-button.square svg {
-	left: 82%;
-	bottom: 81%;
+	left: calc(100% - 36px);
+	bottom: calc(100% - 36px);
 }
-
-/*-------*/
 
 .square-container {
 	display: flex;
 	justify-content: center;
 }
-
-/*-------*/
 
 @media only screen and (min-width: 1024px) {
 	.logos-title {

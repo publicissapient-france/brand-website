@@ -14,12 +14,6 @@
 	font-size: 35px;
 	color: var(--white);
 	align-self: center;
-	line-height: 100px;
-}
-
-.banner-logo {
-	width: 100px;
-	height: 100px;
 }
 
 .banner-logo svg {

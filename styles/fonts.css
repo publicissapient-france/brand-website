@@ -7,7 +7,6 @@
 }
 
 .fonts-title p {
-	font-weight: 400;
 	font-size: 14px;
 }
 
@@ -40,7 +39,6 @@
 
 .font-preview p {
 	color: var(--ps-red);
-	font-weight: 400;
 	font-size: 14px;
 	margin-top: 20px;
 }

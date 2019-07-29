@@ -28,12 +28,10 @@
 }
 
 .menu-button {
-	display: block;
 	border: none;
   	background: none;
 	width: 50px;
 	margin-right: 10px;
-	float: right;
 }
 
 .menu-button:hover {
@@ -48,7 +46,6 @@
 	height: 2px;
 	margin-bottom: 5px;
 	background-color: var(--black);
-	position: relative;
 	transition: 0.4s;
 }
 
@@ -84,7 +81,6 @@
 }
 
 .menu-box a {
-	font-weight: 400;
 	font-size: 14px;
 	color: var(--black);
 	border-top: 1px solid #EEEEEE;
