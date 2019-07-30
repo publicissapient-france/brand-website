@@ -42,14 +42,14 @@
 	text-align: left;
 	outline: none;
 	border: none;
+	width: 50%;
+	display: flex;
 }
 
 .main-colors button {
 	height: 190px;
-	width: 50%;
 	padding: 10px;
 	position: relative;
-	display: flex;
 	justify-content: center;
 }
 
@@ -76,8 +76,6 @@
 
 .not-main-colors button {
 	height: 50px;
-	width: 50%;
-    display: flex;
     justify-content: space-between;
     align-items: center;
     padding-left: 15px;
@@ -143,7 +141,6 @@
 	.main-colors button {
 		width: 100vw;
 		height: 170px;	
-
 	}
 
 	.not-main-colors button {

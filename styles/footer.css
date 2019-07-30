@@ -13,7 +13,7 @@
 	margin: 0 10px;
 }
 
-.active svg{
+.menu-footer a:hover, .active {
 	fill: var(--ps-red);
 }
 
