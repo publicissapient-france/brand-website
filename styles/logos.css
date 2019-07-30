@@ -84,4 +84,8 @@
 	.pse-logo-download, .square-container {
 		width: 100%;
 	}
+
+	.logo-preview.rectangle {
+		max-width: 315px;
+	}
 }

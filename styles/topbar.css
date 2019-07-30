@@ -4,6 +4,10 @@
 	justify-content: space-between;
 	border-bottom: 1px solid #B2B2B2;
 	z-index: 2;
+	background-color: var(--white);
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
 }
 
 .logo {
@@ -94,13 +98,6 @@
 
 .menu-box a:first-child {
 	border-top: none;
-}
-
-.sticky {
-	background-color: var(--white);
-	position: -webkit-sticky;
-	position: sticky;
-	top: 0;
 }
 
 @media only screen and (min-width: 1024px) {

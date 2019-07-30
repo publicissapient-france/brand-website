@@ -1,4 +1,23 @@
- .colors-title {
+.color-black {background-color: var(--black);}
+.color-ps-red {background-color: var(--ps-red);}
+.color-white {background-color: var(--white);}
+.color-blue {background-color: #079FFF;}
+.color-yellow {background-color: #FFE63B;}
+.color-turquoise {background-color: #00E6C3}
+.color-grey {background-color: #B4B4B4;}
+.color-orange {background-color: #FF7B5C;}
+.color-sky-blue {background-color: #04C2E2;}
+.color-light-orange {background-color: #F5AA6D;}
+.color-purple {background-color: #9E97F2;}
+.color-magenta {background-color: #D576C8;}
+.color-light-green {background-color: #9CE361;}
+.color-light-grey {background-color: var(--light-grey);}
+
+.content.colors-page {
+    max-width: 100%
+}
+
+.colors-title {
 	padding: 30px 30px 0 30px;
 }
 
@@ -20,23 +39,24 @@
 }
 
 .main-colors button, .not-main-colors button {
-	max-width: calc(375px / 2);
 	text-align: left;
 	outline: none;
 	border: none;
 }
 
 .main-colors button {
-	height: calc(375px / 2);
+	height: 190px;
 	width: 50%;
 	padding: 10px;
 	position: relative;
+	display: flex;
+	justify-content: center;
 }
 
 .main-colors svg {
 	position: absolute;
-	left: 75%;
-	bottom: 75%;
+	left: calc(100% - 50px);
+	bottom: calc(100% - 50px);
 }
 
 .main-colors button:hover, .not-main-colors button:hover {
@@ -91,27 +111,10 @@
 	font-weight: 100;
 }
 
-
 .white-font, .not-main-colors .color-name, .not-main-colors svg {
 	color: var(--white);
 	fill: var(--white);
 }
-
-.color-black {background-color: var(--black);}
-.color-ps-red {background-color: var(--ps-red);}
-.color-white {background-color: var(--white);}
-.color-blue {background-color: #079FFF;}
-.color-yellow {background-color: #FFE63B;}
-.color-turquoise {background-color: #00E6C3}
-.color-grey {background-color: #B4B4B4;}
-.color-orange {background-color: #FF7B5C;}
-.color-sky-blue {background-color: #04C2E2;}
-.color-light-orange {background-color: #F5AA6D;}
-.color-purple {background-color: #9E97F2;}
-.color-light-yellow {background-color: #FFD53B;}
-.color-magenta {background-color: #D576C8;}
-.color-light-green {background-color: #9CE361;}
-.color-light-grey {background-color: var(--light-grey);}
 
 .copy-text {
   background-color: rgba(85, 85, 85, 0.95);
@@ -129,7 +132,6 @@
 
 .main-colors .copy-text {
 	margin-top: 52px;
-	margin-left: 35px;
 }
 
 .main-colors button:hover .copy-text, .not-main-colors button:hover .copy-text{
@@ -137,15 +139,40 @@
   opacity: 1;
 }
 
-@media only screen and (min-width: 447px) {
-	.main-colors, .not-main-colors {
-		margin-left: 30px;
-		margin-right: 30px
+@media only screen and (max-width: 374px) {
+	.main-colors button {
+		width: 100vw;
+		height: 170px;	
+
+	}
+
+	.not-main-colors button {
+		width: 100vw;
+		height: 80px;
 	}
 }
 
-@media only screen and (min-width: 376px) and (max-width: 446px){
-	.main-colors, .not-main-colors {
-		justify-content: center;
+@media only screen and (min-width: 375px) and (max-width: 767px){
+	.main-colors button, .not-main-colors button {
+		width: 50%;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1279px){
+	.main-colors button, .not-main-colors button  {
+		width: calc(100% / 4);
+	}
+}
+
+@media only screen and (min-width: 1280px) {
+	.main-colors button, .not-main-colors button  {
+		width: calc(100% / 7);
+	}
+}
+
+@media only screen and (min-width: 1024px) {
+	.colors-content {
+		max-width: 1200px;
+		margin: 0 auto;
 	}
 }

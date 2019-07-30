@@ -24,10 +24,16 @@
 		width: auto;
 		z-index: 2;
 		background: none;
-		position: absolute;
+		position: fixed;
+	}
+}
+
+@media only screen and (max-width: 333px) {
+	.menu-footer {
+		justify-content: space-around;
 	}
 
-	.menu-footer.sticky-footer {
-		position: fixed;
+	.menu-footer a {
+		margin: 0;
 	}
 }

@@ -12,6 +12,11 @@ body, html {
 	background-size: contain;
 }
 
+.background-link {
+	display: flex;
+	height: 100%;
+}
+
 @media only screen and (min-width: 1024px) {
 	.branding-background {
 		height: calc(100% - 51px);

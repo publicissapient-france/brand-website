@@ -8,7 +8,9 @@
 
 	<body>
 		<?php include('topbar.html');?>
-		<div class="branding-background"></div>
+		<div class="branding-background">
+			<a class="background-link" href="logos.php"></a>
+		</div>
 		<?php include('footer.php');?>
 	</body>
 	

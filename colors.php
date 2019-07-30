@@ -19,11 +19,12 @@
 			</div>
 		</div>
 
-		<div class="content">
-
-			<div class="colors-title">
-				<h2>COLOR CHART</h2>
-				<p>Click color square to copy</p>
+		<div class="content colors-page">
+			<div class="colors-content">
+				<div class="colors-title">
+					<h2>COLOR CHART</h2>
+					<p>Click color square to copy</p>
+				</div>
 			</div>
 
 			<div class="main-colors">
@@ -156,8 +157,10 @@
 				
 			</div>
 
+			<div class="colors-content">
+				<h2 class="colors-title">MANY COLORS...</h2>
+			</div>
 
-			<h2 class="colors-title">MANY COLORS...</h2>
 			<div class="not-main-colors">
 
 				<button class="color-orange" value=#FF7B5C>
@@ -184,12 +187,6 @@
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
 
-				<button class="color-light-yellow" value=#FFD53B>
-					<span class="copy-text">Click to copy</span>
-					<p class="color-name">#FFD53B</p>
-					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
-				</button>
-
 				<button class="color-magenta" value=#D576C8>
 					<span class="copy-text">Click to copy</span>
 					<p class="color-name">#D576C8</p>
@@ -207,9 +204,7 @@
 					<p class="color-name">#DEDEDE</p>
 					<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
 				</button>
-
 			</div>
-
 		</div>
 
 		<script> 

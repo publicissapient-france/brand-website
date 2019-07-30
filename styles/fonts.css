@@ -24,26 +24,33 @@
 	color: #B4B4B4;
 }
 
-.font-preview {
+.font-preview-futura, .font-preview-minion {
 	border-top: 1px solid var(--light-grey);
 	margin: 20px 30px 0 30px;
 	padding-top: 30px;
 }
 
-.font-preview h4 {
+.font-preview-futura h4, .font-preview-minion h4 {
 	color: var(--ps-red);
 	font-weight: 400;
 	font-size: 16px;
+}
+
+.font-preview-futura h4 {
 	margin-top: 20px;
 }
 
-.font-preview p {
+.font-preview-minion h4 {
+	margin-top: 12px;
+}
+
+.font-preview-futura p, .font-preview-minion p {
 	color: var(--ps-red);
 	font-size: 14px;
 	margin-top: 20px;
 }
 
-.font-preview img {
+.font-preview-futura img, .font-preview-minion img {
 	width: 100%;
 	max-width: 400px;
 	margin-top: 10px;
@@ -53,4 +60,35 @@
 	font-family: MinionPro, serif;
 	font-weight: 300;
 	font-size: 24px;
+}
+
+@media only screen and (min-width: 1024px) {
+	.fonts-container {
+		display: flex;
+		border-top: 1px solid var(--light-grey);
+		margin: 20px 30px 0 30px;
+	}
+
+	.futura-container {
+		border-top: none;
+		margin: 0 10% 0 0;
+	}
+
+	.minion-container {
+		border-top: none;
+		margin: 0;
+	}
+
+	.futura-container .download-box, .minion-container .download-box {
+		margin: 0;
+	}
+
+	.font-preview-futura, .font-preview-minion {
+		border-top: none;
+		margin: 0;
+	}
+
+	.font-preview-futura img:last-child {
+		margin-bottom: 29px;
+	}
 }
