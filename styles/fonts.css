@@ -21,7 +21,7 @@
 }
 
 .text-file-size {
-	color: #B4B4B4;
+	color: var(--dark-grey);
 }
 
 .font-preview-futura, .font-preview-minion {

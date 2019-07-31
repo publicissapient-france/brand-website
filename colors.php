@@ -222,8 +222,6 @@
 			$("button").mouseenter(function(){
 				$(".copy-text").text("Click to copy");
 			});
-
-		
 		</script>
 
 		<?php include('footer.php');?>

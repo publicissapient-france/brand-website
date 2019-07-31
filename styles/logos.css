@@ -1,6 +1,6 @@
 .logos-title {
 	padding: 30px;
-	border-bottom: 1px solid #DEDEDE;
+	border-bottom: 1px solid var(--light-grey);
 }
 
 .logos-title p {
@@ -72,7 +72,7 @@
 	}
 
 	.pse-logo-download.rectangle {
-		border: 1px solid #DEDEDE;
+		border: 1px solid var(--light-grey);
 	}
 
 	.logos-download {
