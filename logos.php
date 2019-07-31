@@ -30,7 +30,7 @@
 					<a class="click-to-download" href="">
 						<img class="logo-preview rectangle" src="../images/pse-logo.svg"/>
 						<div class="download-button">
-							<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 						</div>
 					</a>
 				</div>
@@ -39,7 +39,7 @@
 					<a class="click-to-download" href="">
 						<img class="logo-preview rectangle" src="../images/PSE-logo-white.svg"/>
 						<div class="download-button">
-							<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 						</div>
 					</a>
 				</div>
@@ -54,7 +54,7 @@
 						<a class="click-to-download" href="">
 							<img class="logo-preview square" src="../images/manquelefichier.svg"/>
 							<div class="download-button square">
-								<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 							</div>
 						</a>
 					</div>
@@ -62,7 +62,7 @@
 						<a class="click-to-download" href="">
 							<img class="logo-preview square" src="../images/manquelefichier.svg"/>
 							<div class="download-button square">
-								<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 							</div>
 						</a>
 					</div>
@@ -73,7 +73,7 @@
 						<a class="click-to-download" href="">
 							<img class="logo-preview square" src="../images/manquelefichier.svg"/>
 							<div class="download-button square">
-								<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 							</div>
 						</a>
 					</div>
@@ -81,7 +81,7 @@
 						<a class="click-to-download" href="">
 							<img class="logo-preview square" src="../images/manquelefichier.svg"/>
 							<div class="download-button square">
-								<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"><defs><style>.a{fill:none;}</style></defs><rect class="a" width="50" height="50"/><path d="M1048.823,1009.25h-12.5v5h-9v16.5h16.5v-9h5Zm-6.5,20h-13.5v-13.5h7.5v6h6Zm0-9h-4.5v-4.5h4.5Zm5,0h-3.5v-6h-6v-3.5h9.5Z" transform="translate(-1013.072 -995)"/></svg>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 							</div>
 						</a>
 					</div>

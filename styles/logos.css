@@ -51,14 +51,13 @@
 
 .download-button svg {
 	position: absolute;
-	fill: var(--ps-red);
-	left: calc(100% - 15px);
-	bottom: 60%;
+	left: calc(100% + 2px);
+	bottom: 75%;
 }
 
 .download-button.square svg {
-	left: calc(100% - 36px);
-	bottom: calc(100% - 36px);
+	left: calc(100% - 20px);
+	bottom: calc(100% - 20px);
 }
 
 .square-container {

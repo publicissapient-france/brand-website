@@ -48,6 +48,7 @@ h2 {
 }
 
 .download-box {
+  height: 50px;
   max-width: 375px;
   margin: 10px 30px 0 30px;
   display: flex;
