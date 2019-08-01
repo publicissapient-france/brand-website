@@ -22,6 +22,10 @@
   src: url("../../fonts/minion/MinionPro-Regular.otf") format("opentype");
 }
 
+@import url('https://fonts.googleapis.com/css?family=Lato:300');
+
+@import url('https://fonts.googleapis.com/css?family=Oswald:400');
+
 * {
   margin: 0;
   padding: 0;
@@ -68,6 +72,26 @@ h2 {
 .download-link p {
   font-size: 14px;
 }
+
+.color-black {background-color: var(--black);}
+.color-ps-red {background-color: var(--ps-red);}
+.color-white {background-color: var(--white);}
+.color-blue {background-color: #079FFF;}
+.color-yellow {background-color: #FFE63B;}
+.color-turquoise {background-color: #00E6C3}
+.color-grey {background-color: var(--dark-grey);}
+.color-orange {background-color: #FF7B5C;}
+.color-sky-blue {background-color: #04C2E2;}
+.color-light-orange {background-color: #F5AA6D;}
+.color-purple {background-color: #9E97F2;}
+.color-magenta {background-color: #D576C8;}
+.color-light-green {background-color: #9CE361;}
+.color-light-grey {background-color: var(--light-grey);}
+.color-xebia-purple {background-color: #6C1D5F;}
+.color-xebia-blue {background-color: #2C374C;}
+.color-xebia-beige {background-color: #C7B299;}
+.color-xebia-yellow {background-color: #FBB03B;}
+.color-xebia-grey {background-color: #666666;}
 
 @media only screen and (min-width: 1024px) {
   .content {

@@ -24,13 +24,18 @@
 	color: var(--dark-grey);
 }
 
-.font-preview-futura, .font-preview-minion {
+.fonts-container {
+	border-bottom: 1px solid var(--light-grey);
+    padding-bottom: 20px;
+}
+
+.font-preview-futura, .font-preview-minion, .font-preview-oswald, .font-preview-lato {
 	border-top: 1px solid var(--light-grey);
 	margin: 20px 30px 0 30px;
 	padding-top: 30px;
 }
 
-.font-preview-futura h4, .font-preview-minion h4 {
+.font-preview-futura h4, .font-preview-minion h4, .font-preview-oswald h4, .font-preview-lato h4{
 	color: var(--ps-red);
 	font-weight: 400;
 	font-size: 16px;
@@ -44,13 +49,21 @@
 	margin-top: 12px;
 }
 
-.font-preview-futura p, .font-preview-minion p {
+.font-preview-oswald h4 {
+	margin-top: 12px;
+}
+
+.font-preview-lato h4 {
+	margin-top: 12px;
+}
+
+.font-preview-futura p, .font-preview-minion p, .font-preview-oswald p, .font-preview-lato p {
 	color: var(--ps-red);
 	font-size: 14px;
 	margin-top: 20px;
 }
 
-.font-preview-futura img, .font-preview-minion img {
+.font-preview-futura img, .font-preview-minion img, .font-preview-oswald img, .font-preview-lato img {
 	width: 100%;
 	max-width: 400px;
 	margin-top: 10px;
@@ -62,6 +75,24 @@
 	font-size: 24px;
 }
 
+.oswald {
+	font-family: Oswald, sans-serif;
+	font-weight: 300;
+}
+
+.lato {
+	font-family: Lato, sans-serif;
+	font-weight: 400;
+}
+
+.no-padding-bottom {
+	padding-bottom: 0;
+}
+
+.no-margin-top {
+	margin-top: 0;
+}
+
 @media only screen and (min-width: 1024px) {
 	.fonts-container {
 		display: flex;
@@ -69,21 +100,23 @@
 		margin: 20px 30px 0 30px;
 	}
 
-	.futura-container {
+	.futura-container, .minion-container, .font-preview-oswald, .font-preview-lato {
 		border-top: none;
+	}
+
+	.futura-container {
 		margin: 0 10% 0 0;
 	}
 
 	.minion-container {
-		border-top: none;
 		margin: 0;
 	}
 
-	.futura-container .download-box, .minion-container .download-box {
+	.futura-container .download-box, .minion-container .download-box, .font-preview-oswald .download-box, .font-preview-lato .download-box{
 		margin: 0;
 	}
 
-	.font-preview-futura, .font-preview-minion {
+	.font-preview-futura, .font-preview-minion, .font-preview-oswald, .font-preview-lato {
 		border-top: none;
 		margin: 0;
 	}

@@ -69,6 +69,53 @@
 				</div>
 			</div>
 
+
+			<div class="fonts-title no-padding-bottom">
+				<h2>XEBIA</h2>
+			</div>
+			<div class="download-link">
+				<a class="download-box no-margin-top" href="">
+					<p><span class="red-text">O </span><span class="on-hover">Xebia fonts</span><span class="text-file-size"> Taille</span></p>
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
+				</a>
+			</div>
+
+			<div class="fonts-container">
+				<div class="oswald-container">
+					<div class="font-preview-oswald">
+						<h3 calss="oswald">OSWALD</h3>
+						<h4>PRIMARY TYPEFACE</h4>
+						<p>Character</p>
+						<img src="../images/oswald-next-characters.png">
+						<p>Style</p>
+						<img src="../images/oswald-next-styles.png">
+					</div>
+					<div class="download-link">
+						<a class="download-box" href="../assets/oswald.zip">
+							<p><span class="red-text">O </span><span class="on-hover">oswald.zip</span><span class="text-file-size"> (276 KB)</span></p>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
+						</a>
+					</div>
+				</div>
+
+				<div class="lato-container">
+					<div class="font-preview-lato">
+						<h3 class="lato">LATO</h3>
+						<h4>SECONDARY TYPEFACE</h4>
+						<p>Character</p>
+						<img src="../images/lato-pro-characters.png">
+						<p>Style</p>
+						<img src="../images/lato-pro-styles.png">
+					</div>
+					<div class="download-link">
+						<a class="download-box" href="../assets/lato.zip">
+							<p><span class="red-text">O </span><span class="on-hover">lato.zip</span><span class="text-file-size"> (500 KB)</span></p>
+							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
+						</a>
+					</div>
+				</div>
+			</div>
+
 		</div>
 
 		<?php include('footer.php');?>

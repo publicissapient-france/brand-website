@@ -1,18 +1,3 @@
-.color-black {background-color: var(--black);}
-.color-ps-red {background-color: var(--ps-red);}
-.color-white {background-color: var(--white);}
-.color-blue {background-color: #079FFF;}
-.color-yellow {background-color: #FFE63B;}
-.color-turquoise {background-color: #00E6C3}
-.color-grey {background-color: var(--dark-grey);}
-.color-orange {background-color: #FF7B5C;}
-.color-sky-blue {background-color: #04C2E2;}
-.color-light-orange {background-color: #F5AA6D;}
-.color-purple {background-color: #9E97F2;}
-.color-magenta {background-color: #D576C8;}
-.color-light-green {background-color: #9CE361;}
-.color-light-grey {background-color: var(--light-grey);}
-
 .content.colors-page {
     max-width: 100%
 }
@@ -30,12 +15,11 @@
 .main-colors {
 	display: flex;
 	flex-wrap: wrap;
-	border-bottom: 1px solid var(--light-grey);
 }
 
 .main-colors, .not-main-colors {
 	padding-top: 30px;
-
+	border-bottom: 1px solid var(--light-grey);
 }
 
 .main-colors button, .not-main-colors button {
@@ -80,6 +64,10 @@
     align-items: center;
     padding-left: 15px;
     padding-right: 5px;
+}
+
+.no-border-bottom {
+	border-bottom: none;
 }
 
 .color-content {

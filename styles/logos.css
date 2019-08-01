@@ -14,19 +14,19 @@
 	font-weight: 400;
 }
 
-.pse-logo-download, .click-to-download{
+.logo-download-box, .click-to-download{
 	position: relative;
 	display: flex;
 	justify-content: center;
 }
 
-.pse-logo-download.rectangle{
+.logo-download-box.rectangle{
 	height: 110px;
 	padding-left: 30px;
 	padding-right: 30px;
 }
 
-.pse-logo-download.square {
+.logo-download-box.square {
 	width: 50%;
 	height: 188px;
 	border: 1px solid var(--light-grey);
@@ -44,10 +44,10 @@
 
 .logo-preview.rectangle {
 	max-width: 482px;
+	max-height: 50px;
 }
 
 .logo-preview.square{
-	max-width: 188px;
 	max-height: 50px;
 }
 
@@ -73,7 +73,7 @@
 		border-bottom: none;
 	}
 
-	.pse-logo-download.rectangle {
+	.logo-download-box.rectangle {
 		border: 1px solid var(--light-grey);
 	}
 
@@ -82,11 +82,15 @@
 		padding: 30px 30px 0 30px;
 	}
 
-	.pse-logo-download, .square-container {
+	.logo-download-box, .square-container {
 		width: 100%;
 	}
 
 	.logo-preview.rectangle {
 		max-width: 315px;
+	}
+
+	.no-padding-top {
+		padding-top: 0;
 	}
 }
