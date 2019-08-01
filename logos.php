@@ -52,7 +52,7 @@
 				<div class="square-container">
 					<div class="pse-logo-download square">
 						<a class="click-to-download" href="">
-							<img class="logo-preview square" src="../images/manquelefichier.svg"/>
+							<img class="logo-preview square" src="../images/publicis-sapient.svg"/>
 							<div class="download-button square">
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 							</div>
@@ -60,7 +60,7 @@
 					</div>
 					<div class="pse-logo-download square">
 						<a class="click-to-download" href="">
-							<img class="logo-preview square" src="../images/manquelefichier.svg"/>
+							<img class="logo-preview square" src="../images/ps.svg"/>
 							<div class="download-button square">
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 							</div>
@@ -71,7 +71,7 @@
 				<div class="square-container">
 					<div class="pse-logo-download square dark">
 						<a class="click-to-download" href="">
-							<img class="logo-preview square" src="../images/manquelefichier.svg"/>
+							<img class="logo-preview square" src="../images/publicis-sapient-white.svg"/>
 							<div class="download-button square">
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 							</div>
@@ -79,7 +79,7 @@
 					</div>
 					<div class="pse-logo-download square dark">
 						<a class="click-to-download" href="">
-							<img class="logo-preview square" src="../images/manquelefichier.svg"/>
+							<img class="logo-preview square" src="../images/ps-white.svg"/>
 							<div class="download-button square">
 								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 							</div>

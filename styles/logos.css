@@ -28,7 +28,7 @@
 
 .pse-logo-download.square {
 	width: 50%;
-	max-height: 188px;
+	height: 188px;
 	border: 1px solid var(--light-grey);
 	padding: 10px;
 }
@@ -38,6 +38,7 @@
 }
 
 .logo-preview, .click-to-download {
+	align-items: center;
 	width: 100%;
 }
 
@@ -47,6 +48,7 @@
 
 .logo-preview.square{
 	max-width: 188px;
+	max-height: 50px;
 }
 
 .download-button svg {
