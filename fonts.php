@@ -83,12 +83,12 @@
 			<div class="fonts-container">
 				<div class="oswald-container">
 					<div class="font-preview-oswald">
-						<h3 calss="oswald">OSWALD</h3>
+						<h3 class="oswald">OSWALD</h3>
 						<h4>PRIMARY TYPEFACE</h4>
 						<p>Character</p>
-						<img src="../images/oswald-next-characters.png">
+						<img src="../images/oswald-characters.png">
 						<p>Style</p>
-						<img src="../images/oswald-next-styles.png">
+						<img src="../images/oswald-styles.png">
 					</div>
 					<div class="download-link">
 						<a class="download-box" href="../assets/oswald.zip">
@@ -103,9 +103,9 @@
 						<h3 class="lato">LATO</h3>
 						<h4>SECONDARY TYPEFACE</h4>
 						<p>Character</p>
-						<img src="../images/lato-pro-characters.png">
+						<img src="../images/lato-characters.png">
 						<p>Style</p>
-						<img src="../images/lato-pro-styles.png">
+						<img src="../images/lato-styles.png">
 					</div>
 					<div class="download-link">
 						<a class="download-box" href="../assets/lato.zip">
