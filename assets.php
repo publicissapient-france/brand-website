@@ -32,6 +32,16 @@
 			<div class="assets-image">
 				<img src="../images/stock-pictures-3x.png"/>
 			</div>
+
+			<div class="assets-title">
+				<h2>XEBIA PUBLICATIONS</h2>
+			</div>
+			<div class="download-link">
+				<a class="download-box" href="https://docs.google.com/presentation/d/1k8Qe_OXtoLjroIAKzkZqetm2yOcNH4b4VBhZJabklb8/edit#slide=id.g2e49b6d1ce_0_160" target="_blank">
+					<p class="on-hover">Covers</p>
+					<img src="../images/external-link.svg" />
+				</a>
+			</div>
 		</div>
 
 		<?php include('footer.php');?>

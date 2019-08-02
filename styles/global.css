@@ -22,10 +22,6 @@
   src: url("../../fonts/minion/MinionPro-Regular.otf") format("opentype");
 }
 
-@import url('https://fonts.googleapis.com/css?family=Lato:400');
-
-@import url('https://fonts.googleapis.com/css?family=Oswald:400');
-
 * {
   margin: 0;
   padding: 0;

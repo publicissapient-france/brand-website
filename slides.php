@@ -21,7 +21,7 @@
 
 		<div class="content">
 			<div class="slides-title">
-				<h2>GOOGLE SLIDE</h2>
+				<h2>GOOGLE SLIDES</h2>
 			</div>
 			<div class="download-link">
 				<a class="download-box" href="">
@@ -34,13 +34,13 @@
 				<h2>XEBIA</h2>
 			</div>
 			<div class="download-link">
-				<a class="download-box" href="https://docs.google.com/presentation/d/1h9vrM2Gr7TCy0VmK-W0WO80GiJFZgfk48_lCSYTTZQE/edit#slide=id.p">
+				<a class="download-box" href="https://docs.google.com/presentation/d/1h9vrM2Gr7TCy0VmK-W0WO80GiJFZgfk48_lCSYTTZQE/edit#slide=id.p" target="_blank">
 					<p class="on-hover">Assets</p>
 					<img src="../images/external-link.svg" />
 				</a>
 			</div>
 			<div class="download-link">
-				<a class="download-box" href="https://docs.google.com/presentation/d/1lhuet6b1ElGa6H-RYQroetlsV1nPd7VAn01NMWK-npI/edit#slide=id.p">
+				<a class="download-box no-margin-top" href="https://docs.google.com/presentation/d/1lhuet6b1ElGa6H-RYQroetlsV1nPd7VAn01NMWK-npI/edit#slide=id.p" target="_blank">
 					<p class="on-hover">Charte</p>
 					<img src="../images/external-link.svg" />
 				</a>

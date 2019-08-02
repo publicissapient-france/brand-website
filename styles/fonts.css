@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400');
+@import url('https://fonts.googleapis.com/css?family=Oswald:400');
+
 .fonts-title {
 	padding: 30px 30px 10px 30px;
 }
@@ -54,7 +57,7 @@
 }
 
 .font-preview-lato h4 {
-	margin-top: 12px;
+	margin-top: 18px;
 }
 
 .font-preview-futura p, .font-preview-minion p, .font-preview-oswald p, .font-preview-lato p {
@@ -96,7 +99,7 @@
 		border-top: none;
 	}
 
-	.futura-container {
+	.futura-container, .oswald-container {
 		margin: 0 10% 0 0;
 	}
 
@@ -104,7 +107,7 @@
 		margin: 0;
 	}
 
-	.futura-container .download-box, .minion-container .download-box, .font-preview-oswald .download-box, .font-preview-lato .download-box{
+	.futura-container .download-box, .minion-container .download-box, .lato-container .download-box, .oswald-container .download-box{
 		margin: 0;
 	}
 
@@ -115,5 +118,9 @@
 
 	.font-preview-futura img:last-child {
 		margin-bottom: 29px;
+	}
+
+	.font-preview-oswald img:last-child {
+		margin-bottom: 24px;
 	}
 }
