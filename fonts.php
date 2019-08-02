@@ -91,6 +91,9 @@
 						<img src="../images/typo-oswald.png">
 						<p>Style</p>
 						<img src="../images/typo-oswald2.png">
+						<img src="../images/oswald-characters.png">
+						<p>Style</p>
+						<img src="../images/oswald-styles.png">
 					</div>
 					<div class="download-link">
 						<a class="download-box" href="../assets/oswald.zip">
@@ -108,6 +111,9 @@
 						<img src="../images/typo-lato.png">
 						<p>Style</p>
 						<img src="../images/typo-lato2.png">
+						<img src="../images/lato-characters.png">
+						<p>Style</p>
+						<img src="../images/lato-styles.png">
 					</div>
 					<div class="download-link">
 						<a class="download-box" href="../assets/lato.zip">
