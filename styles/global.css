@@ -48,6 +48,10 @@ h2 {
   overflow-x: hidden;
 }
 
+.download-link:not(:first-of-type) .download-box {
+  margin-top: 10px;
+}
+
 .download-box {
   height: 50px;
   max-width: 375px;
@@ -67,18 +71,6 @@ h2 {
 
 .download-link p {
   font-size: 14px;
-}
-
-.no-padding-bottom {
-  padding-bottom: 0;
-}
-
-.no-margin-top {
-  margin-top: 0;
-}
-
-.no-border-bottom {
-  border-bottom: none;
 }
 
 .color-black {background-color: var(--black);}

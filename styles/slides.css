@@ -1,3 +1,7 @@
 .slides-title {
 	padding: 30px 30px 0 30px;
 }
+
+.slides-container .download-link:not(:first-child) .download-box {
+	margin-top: 0;
+}

@@ -34,8 +34,8 @@
 			</div>
 
 			<div class="fonts-container">
-				<div class="futura-container">
-					<div class="font-preview-futura">
+				<div class="single-font-container">
+					<div class="font-preview">
 						<h3>FUTURA NEXT</h3>
 						<h4>PRIMARY TYPEFACE</h4>
 						<p>Character</p>
@@ -51,9 +51,9 @@
 					</div>
 				</div>
 
-				<div class="minion-container">
-					<div class="font-preview-minion">
-						<h3 class="minion-pro">MINION PRO</h3>
+				<div class="single-font-container">
+					<div class="font-preview">
+						<h3>MINION PRO</h3>
 						<h4>SECONDARY TYPEFACE</h4>
 						<p>Character</p>
 						<img src="../images/typo-minion.png">
@@ -83,9 +83,9 @@
 			</div>
 
 			<div class="fonts-container">
-				<div class="oswald-container">
-					<div class="font-preview-oswald">
-						<h3 class="oswald">OSWALD</h3>
+				<div class="single-font-container">
+					<div class="font-preview">
+						<h3>OSWALD</h3>
 						<h4>PRIMARY TYPEFACE</h4>
 						<p>Character</p>
 						<img src="../images/typo-oswald.png">
@@ -100,9 +100,9 @@
 					</div>
 				</div>
 
-				<div class="lato-container">
-					<div class="font-preview-lato">
-						<h3 class="lato">LATO</h3>
+				<div class="single-font-container">
+					<div class="font-preview">
+						<h3>LATO</h3>
 						<h4>SECONDARY TYPEFACE</h4>
 						<p>Character</p>
 						<img src="../images/typo-lato.png">
