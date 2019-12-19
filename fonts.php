@@ -29,7 +29,6 @@
 			<div class="download-link">
 				<a class="download-box" href="">
 					<p><span class="red-text">O </span><span class="on-hover">PS_Fonts.zip</span><span class="text-file-size"> (1.5 Mo)</span></p>
-					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 				</a>
 			</div>
 
@@ -39,9 +38,9 @@
 						<h3>FUTURA NEXT</h3>
 						<h4>PRIMARY TYPEFACE</h4>
 						<p>Character</p>
-						<img src="../images/typo-futura.png">
+						<img src="./images/typo-futura.png">
 						<p>Style</p>
-						<img src="../images/typo-futura2.png">
+						<img src="./images/typo-futura2.png">
 					</div>
 					<div class="download-link">
 						<a class="download-box" href="">
@@ -56,9 +55,9 @@
 						<h3>MINION PRO</h3>
 						<h4>SECONDARY TYPEFACE</h4>
 						<p>Character</p>
-						<img src="../images/typo-minion.png">
+						<img src="./images/typo-minion.png">
 						<p>Style</p>
-						<img src="../images/typo-minion2.png">
+						<img src="./images/typo-minion2.png">
 					</div>
 					<div class="download-link">
 						<a class="download-box" href="">
@@ -70,56 +69,10 @@
 			</div>
 
 
-			<div class="fonts-title">
-				<h2>XEBIA</h2>
-				<p>La font <span>Oswald</span> est utilisée essentiellement dans les Gros titres et Titres principaux.</p>
-				<p>La font <span>Lato</span> est utilisée essentiellement dans les titres secondaires et le texte courant.</p>
-			</div>
-			<div class="download-link">
-				<a class="download-box" href="../assets/Xebia_Fonts.zip">
-					<p><span class="red-text">O </span><span class="on-hover">Xebia_Fonts.zip</span><span class="text-file-size"> (701 KB)</span></p>
-					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
-				</a>
-			</div>
-
-			<div class="fonts-container">
-				<div class="single-font-container">
-					<div class="font-preview">
-						<h3>OSWALD</h3>
-						<h4>PRIMARY TYPEFACE</h4>
-						<p>Character</p>
-						<img src="../images/typo-oswald.png">
-						<p>Style</p>
-						<img src="../images/typo-oswald2.png">
-					</div>
-					<div class="download-link">
-						<a class="download-box" href="../assets/oswald.zip">
-							<p><span class="red-text">O </span><span class="on-hover">oswald.zip</span><span class="text-file-size"> (276 KB)</span></p>
-							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
-						</a>
-					</div>
-				</div>
-
-				<div class="single-font-container">
-					<div class="font-preview">
-						<h3>LATO</h3>
-						<h4>SECONDARY TYPEFACE</h4>
-						<p>Character</p>
-						<img src="../images/typo-lato.png">
-						<p>Style</p>
-						<img src="../images/typo-lato2.png">
-					</div>
-					<div class="download-link">
-						<a class="download-box" href="../assets/lato.zip">
-							<p><span class="red-text">O </span><span class="on-hover">lato.zip</span><span class="text-file-size"> (500 KB)</span></p>
-							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
-						</a>
-					</div>
-				</div>
-			</div>
 
 		</div>
 
 		<?php include('footer.php');?>
+
 	</body>
 </html>

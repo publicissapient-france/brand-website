@@ -2,7 +2,7 @@
 	height: 50px;
 	display: flex;
 	justify-content: space-between;
-	border-bottom: 1px solid #B2B2B2;
+	border-bottom: 1px solid #EEEEEE;
 	z-index: 2;
 	background-color: var(--white);
 	position: -webkit-sticky;
@@ -11,8 +11,13 @@
 }
 
 .logo {
-	padding: 13px 0 12px 20px;
+	padding: 9px 0 8px 15px;
 }
+
+.logo a img {
+	height: 34px;
+}
+
 
 .menu {
     height: 0%;

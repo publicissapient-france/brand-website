@@ -20,17 +20,24 @@
 	justify-content: center;
 }
 
+.click-to-download:hover .download-button {
+	opacity: 1;
+} 
+
 .logo-download-box.rectangle{
 	height: 110px;
 	padding-left: 30px;
 	padding-right: 30px;
 }
 
+.logo-download-box.circle{
+}
+
+
 .logo-download-box.square {
 	width: 50%;
 	height: 188px;
 	border: 1px solid var(--light-grey);
-	padding: 10px;
 }
 
 .dark {
@@ -42,6 +49,10 @@
 	width: 100%;
 }
 
+.logo-preview.circle {
+	max-height: 340px;
+}
+
 .logo-preview.rectangle {
 	max-width: 482px;
 	max-height: 50px;
@@ -51,15 +62,37 @@
 	max-height: 50px;
 }
 
-.download-button svg {
+.download-button {
 	position: absolute;
-	left: calc(100% + 2px);
-	bottom: 75%;
+	right: 6px;
+	top: 6px;
+	opacity : 0;
+	transition: opacity 0.5s ease;
+
+}
+
+.download-button.light svg g path {
+	fill : #fe414d;
+}
+
+.download-button.light svg g path {
+	fill : white;
 }
 
 .download-button.square svg {
 	left: calc(100% - 20px);
 	bottom: calc(100% - 20px);
+}
+
+
+.download-button.circle svg {
+	left: calc(100% - 20px);
+	bottom: calc(100% - 20px);
+}
+
+.border-logo-white {
+	border: 1px solid var(--light-grey);
+	border-radius: 1px 0px 1px 1px;
 }
 
 .square-container {

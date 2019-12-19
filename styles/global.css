@@ -1,25 +1,25 @@
 @font-face {
   font-family: 'FuturaNext';
   font-weight: 100;
-  src: url("../../fonts/futura-next/FuturaNext_Light.otf") format("opentype");
+  src: url("../fonts/futura-next/FuturaNext_Light.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'FuturaNext';
   font-weight: 400;
-  src: url("../../fonts/futura-next/FuturaNext_Book.otf") format("opentype");
+  src: url("../fonts/futura-next/FuturaNext_Book.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'FuturaNext';
   font-weight: 700;
-  src: url("../../fonts/futura-next/FuturaNext_Medium.otf") format("opentype");
+  src: url("../fonts/futura-next/FuturaNext_Medium.otf") format("opentype");
 }
 
 @font-face {
   font-family: 'MinionPro';
   font-weight: 300;
-  src: url("../../fonts/minion/MinionPro-Regular.otf") format("opentype");
+  src: url("../fonts/minion/MinionPro-Regular.otf") format("opentype");
 }
 
 * {
@@ -31,8 +31,27 @@ a, h1, h2, h3, h4, p, span {
   font-family: FuturaNext, sans-serif;
 }
 
+p {
+  line-height: 28px;
+}
+
 h2 {
   font-size: 20px;
+}
+
+li {
+  font-family: FuturaNext, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 40px;
+  padding-left: 20px;
+  text-align: left;
+  list-style-type: none;
+  background-image: url(../images/bullet.svg);
+  background-size: 12px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-position-y: 12px;
 }
 
 :root {
@@ -97,5 +116,29 @@ h2 {
   .content {
     max-width: 1200px;
     margin: 0 auto 50px auto;
+    }
+  p {
+    line-height: 28px;
+  }
+  }
+
+  @media only screen and (max-width: 768px) {
+  a, h1, h2, h3, h4, p, span {
+    font-family: FuturaNext, sans-serif;
+  }
+
+  li {
+    font-size: 18px;
+  }
+
+  h2 {
+    padding: 30px 0px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 48px;
+  }
+
+  p {
+    line-height: 28px;
   }
 }

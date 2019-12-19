@@ -20,29 +20,56 @@
 		</div>
 
 		<div class="content">
-			<div class="assets-title">
-				<h2>IMAGE LIBRARY</h2>
-			</div>
-			<div class="download-link">
-				<a class="download-box" href="">
-					<p class="on-hover">Search image library</p>
-					<img src="../images/external-link.svg" />
-				</a>
-			</div>
-			<div class="assets-image">
-				<img src="../images/stock-pictures-3x.png"/>
+
+			<div class="card-container">
+			 
+				<div class="card">
+				<div class="cercle cercle-imagebank"></div>
+					<h2>Image Bank</h2>
+					<h3>JPG & PNG</h3>
+					<div class="liste">
+						<ul>
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Photos Corporate</a></li>
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Expertises</a></li>
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Illustrations</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="card">
+				<div class="cercle cercle-logo"></div>
+					<h2>Logos</h2>
+					<h3>SVG & VECTOR SLIDE</h3>
+					<div class="liste">
+						<ul class="un">
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Technos</a></li>
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Business</a></li>
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Sponsors</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="card">
+				<div class="cercle cercle-picto"></div>
+					<h2>Pictos</h2>
+					<h3>SVG & VECTOR SLIDE</h3>
+					<div class="liste">
+						<ul class="un">
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Pictogrammes</a></li>
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Data Science</a></li>
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Design Sprint</a></li>
+							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Xtrem Archi</a></li>
+						</ul>
+					</div>
+				</div>
+
 			</div>
 
-			<div class="assets-title">
-				<h2>XEBIA PUBLICATIONS</h2>
-			</div>
-			<div class="download-link">
-				<a class="download-box" href="https://docs.google.com/presentation/d/1k8Qe_OXtoLjroIAKzkZqetm2yOcNH4b4VBhZJabklb8/edit#slide=id.g2e49b6d1ce_0_160" target="_blank">
-					<p class="on-hover">Covers</p>
-					<img src="../images/external-link.svg" />
-				</a>
-			</div>
 		</div>
+
+
+
+
 
 		<?php include('footer.php');?>
 	</body>

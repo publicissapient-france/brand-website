@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"sticky-top"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"ma",
+				"max-height\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"bar",
+				"background\tproperty"
+			],
+			[
+				"f",
+				"inline-flex\tdisplay"
+			],
+			[
+				"txt",
+				"txtblanc"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fi",
+				"fill\tproperty"
+			],
+			[
+				"p",
+				"padding-left\tproperty"
+			],
+			[
+				"tet",
+				"text-align\tproperty"
+			],
+			[
+				"tx",
+				"text-align\tproperty"
+			],
+			[
+				"t",
+				"txtblanc"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"inherit\tcursor"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"text-s",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"l",
+				"logo"
+			],
+			[
+				"bo",
+				"border-width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"i",
+				"initial\tbackground-attachment"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"n",
+				"transparent\tbackground"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kristofkerninon/Sites/brand-website/styles/global.css",
+		"/Users/kristofkerninon/Sites/brand-website/styles/logos.css",
+		"/Users/kristofkerninon/Sites/brand-website/styles/footer.css",
+		"/Users/kristofkerninon/Sites/brand-website/styles/topbar.css",
+		"/Users/kristofkerninon/sources/brand-website/styles/colors.css",
+		"/Users/kristofkerninon/Sites/brand-website/index.php",
+		"/Users/kristofkerninon/Documents/Xebia/xqrcode/html/index.html",
+		"/Users/kristofkerninon/Documents/Xebia/Techtrends/Refonte-TT/Techtrends/logos/gradle",
+		"/Users/kristofkerninon/Documents/kk/saveweb/index.html",
+		"/Users/kristofkerninon/Documents/Xebia/Techtrends/Refonte-TT/Techtrends/logos/gitlab.svg",
+		"/Users/kristofkerninon/Documents/Xebia/Techtrends/Refonte-TT/Techtrends/logos/android.svg",
+		"/Users/kristofkerninon/Downloads/mouse-follow-parallax-effect-using-depth-map/js/index.js",
+		"/Users/kristofkerninon/Documents/Xebia/xqrcode/html/scanner/js/index.js",
+		"/Users/kristofkerninon/Documents/Xebia/xqrcode/html/scanner/img/googleplay.svg",
+		"/Users/kristofkerninon/Documents/Xebia/xqrcode/html/scanner/img/appstore.svg",
+		"/Users/kristofkerninon/Documents/Xebia/xqrcode/html/scanner/index.html",
+		"/Users/kristofkerninon/Documents/Xebia/xqrcode/html/scanner/css/style.css",
+		"/Users/kristofkerninon/Documents/Xebia/xqrcode/html/scanner/js/loop.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
