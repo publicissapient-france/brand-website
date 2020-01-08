@@ -27,10 +27,6 @@
 				<p>Les deux types de caractères, <span>Futura Next</span> et <span>Minion Pro</span>, sont utilisés pour tous les actifs de marque et sont disponibles au téléchargement. Pour vous assurer que les polices s’affichent correctement sur des ordinateurs autres que PS, nous vous recommandons de créer des PDF avant d’envoyer des présentations à des destinataires externes, y compris des clients.</p>
 			</div>
 			<div class="download-link">
-				<a class="download-box" href="https://drive.google.com/file/d/1dTUdI9OqqDckb3nogarI0pvtTUzKWxBC">
-					<p><span class="red-text">O </span><span class="on-hover">All Fonts</span><span class="text-file-size"> (1.6 Mo)</span></p>
-				</a>
-			</div>
 
 			<div class="fonts-container">
 				<div class="single-font-container">
@@ -43,7 +39,7 @@
 						<img src="./images/typo-futura2.png">
 					</div>
 					<div class="download-link">
-						<a class="download-box" href="https://drive.google.com/file/d/1NPQansbVjIDblVG5Yb5Ibo69B2SVgGmK/view?usp=sharing">
+						<a class="download-box" href="./fonts/FuturaNext.zip">
 							<p><span class="red-text">O </span><span class="on-hover">Futura Next</span><span class="text-file-size"> (339 ko)</span></p>
 							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 						</a>
@@ -60,7 +56,7 @@
 						<img src="./images/typo-minion2.png">
 					</div>
 					<div class="download-link">
-						<a class="download-box" href="https://drive.google.com/open?id=1B6O9mB1wj13XD2GvxU5Lf9kW0nww2985">
+						<a class="download-box" href="./fonts/Minion.zip">
 							<p><span class="red-text">O </span><span class="on-hover">Minion Pro</span><span class="text-file-size"> (1.3 Mo)</span></p>
 							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 						</a>
