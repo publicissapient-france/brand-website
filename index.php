@@ -7,7 +7,7 @@
 	</head>
 
 	<body>
-	    <?php $page = ""; ?>
+	    <?php $page = "home"; ?>
 		<?php include('topbar.html');?>
 		<div class="branding-background">
 			<a class="background-link" href="logos.php"></a>
