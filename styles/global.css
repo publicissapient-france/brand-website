@@ -92,6 +92,47 @@ li {
   font-size: 14px;
 }
 
+
+.download-btn {
+  display : flex;
+  height: 40px;
+  max-width: 375px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-left : 10px;
+  padding-right: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  color: var(--black);
+  fill: var(--ps-red);
+  border : 1px solid var(--light-grey);
+  border-radius : 4px;
+  transition: border 0.3s ease, color 0.3s ease;
+  text-decoration: none;
+}
+
+.download-btn svg{
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.download-btn:hover{
+  color: var(--ps-red);
+  border : 1px solid var(--ps-red);
+
+}
+
+.download-btn:hover svg{
+  opacity: 1;
+}
+
+.download-btn p {
+  font-size: 14px;
+}
+
+
 .color-black {background-color: var(--black);}
 .color-ps-red {background-color: var(--ps-red);}
 .color-white {background-color: var(--white);}
@@ -120,7 +161,17 @@ li {
   p {
     line-height: 28px;
   }
+
   }
+
+
+@media only screen and (min-width: 769px) and (max-width: 1023px){
+  .download-btn {
+    margin-left: 30px;
+  }
+    
+  }
+
 
   @media only screen and (max-width: 768px) {
   a, h1, h2, h3, h4, p, span {
@@ -140,5 +191,9 @@ li {
 
   p {
     line-height: 28px;
+  }
+
+  .download-btn {
+    margin-left: 30px;
   }
 }
