@@ -24,6 +24,7 @@
 			<div class="logos-title">
 				<h2>LOGOS PUBLICIS SAPIENT ENGINEERING</h2>
 				<p>Tous les logos présents sur cette page sont au format <span>SVG</span></p>
+				<p class="logos-txt">Logotype disponible au format <a href="https://docs.google.com/presentation/d/1M9XpQHWldz-BsG3VYn2YHg7qxBoLnrhbgqQadGAgwpU" target="new">GSlide</a></p>
 			</div>
 			<div class="logos-download circle">
 				<div class="logo-download-box circle">
