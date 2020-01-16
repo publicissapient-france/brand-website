@@ -31,7 +31,6 @@
 						<ul>
 							<li><a href="https://drive.google.com/open?id=17TL9F4bPI_1L0PnAjwSctqWLqunPKkTm" target="new">Wallpaper</a></li>
 							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Photos Corporate</a></li>
-							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Expertises</a></li>
 							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Illustrations</a></li>
 						</ul>
 					</div>
@@ -43,9 +42,11 @@
 					<h3>SVG & VECTOR SLIDE</h3>
 					<div class="liste">
 						<ul class="un">
-							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Technos</a></li>
-							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Business</a></li>
-							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Sponsors</a></li>
+                            <li><a href="https://drive.google.com/open?id=1lJNS29F2f26Edx3_lUKorELESR5zLOrX" target="new">KED</a></li>
+							<li><a href="https://drive.google.com/open?id=1J1Q8Xg9jPJ_RoWGFlzqij9AF3ifvUpeF" target="new">Technos</a></li>
+							<li><a href="https://docs.google.com/presentation/d/1VFlWyFM3swA8p4bDuxsHIYAqXHpttGqPBaIx4BVy94M" target="new">Business</a></li>
+							<li><a href="https://drive.google.com/open?id=1Esj3wACiQE7oIapQITdIQV-kYmus0ktd" target="new">Sponsors</a></li>
+							<li><a href="https://drive.google.com/open?id=1kh0-zDcJ71WjEsS9AJrJ-6oU0JLekDIpIR4i_SSj7BQ" target="new">Events</a></li>
 						</ul>
 					</div>
 				</div>
@@ -56,6 +57,7 @@
 					<h3>SVG & VECTOR SLIDE</h3>
 					<div class="liste">
 						<ul class="un">
+							<li><a href="https://docs.google.com/presentation/d/1VFlWyFM3swA8p4bDuxsHIYAqXHpttGqPBaIx4BVy94M" target="new">Expertises</a></li>
 							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Pictogrammes</a></li>
 							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Data Science</a></li>
 							<li><a href="https://drive.google.com/open?id=17QSY8lpIJuxjLcj3OStM54i7zYKENPLF" target="new">Design Sprint</a></li>
