@@ -7,12 +7,10 @@
 }
   
 .card{
-	flex-grow: 1;
-    flex: 1 1 20%;
-    flex-wrap: nowrap;
 	background: #FFFFFF;
 	padding: 30px;
- 	height: 400px;
+	width:calc(100% / 3);
+	box-sizing : border-box;
 	text-align: center;
 	align-items: center;
 	border: 1px solid var(--light-grey);
@@ -91,6 +89,12 @@
 }
 
 
+.legend{
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 h2 {
 	text-transform: uppercase;
 	padding: 30px 0px 20px 0px;
@@ -136,7 +140,7 @@ li a:hover {
 		padding: 0;
 	}
 	.card {
-		width: auto;
+		width: 100%;
 		border-top: 0;
 	}
 		

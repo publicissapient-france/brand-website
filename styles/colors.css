@@ -32,7 +32,7 @@
 }
 
 .main-colors button {
-	height: 190px;
+	//height: 190px;
 	padding: 10px;
 	position: relative;
 	justify-content: center;
@@ -100,21 +100,18 @@
 }
 
 .copy-text {
-  background-color: #000000;
-  color: var(--white);
-  padding: 10px 20px;
-  position: absolute;
-  opacity: 0;
-  font-weight: 400;
-  font-size: 14px;
-  width: auto;
-  text-align: center;
-  transition: 0.5s;
-  white-space: nowrap;
-}
-
-.main-colors .copy-text {
-	margin-top: 52px;
+	background-color: #000000;
+	color: var(--white);
+	padding: 10px 20px;
+	position: absolute;
+	opacity: 0;
+	font-weight: 400;
+	font-size: 14px;
+	width: auto;
+	text-align: center;
+	transition: 0.5s;
+	white-space: nowrap;
+	align-self: center;
 }
 
 .main-colors button:hover .copy-text, .not-main-colors button:hover .copy-text{

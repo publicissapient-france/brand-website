@@ -1,17 +1,43 @@
-.logos-title {
+.logos-title{
 	padding: 30px;
-	border-bottom: 1px solid var(--light-grey);
+}
+
+.logos-title>p{
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 .logos-title p {
-	padding-top: 20px;
 	color: var(--ps-red);
-	font-weight: 100;
+	font-weight: 400;
 	font-size: 14px;
 }
 
 .logos-title p span {
-	font-weight: 400;
+	font-weight: 700;
+}
+
+.logos-title a.link-btn{
+	max-width: 270px;
+}
+
+.logos-title a.link-btn p span{
+	transition: color 0.3s ease;
+}
+.logos-title a.link-btn p span:not(.red-text){
+	color: var(--black);
+}
+.logos-title a.link-btn:hover p span:not(.red-text){
+	color: var(--ps-red);
+}
+
+.logos-title a.link-btn p span.on-hover{
+	font-weight: 100;
+
+}
+
+.logos-title a.link-btn p span.red-text{
+	padding-right : 5px;
 }
 
 .logos-txt {
@@ -44,11 +70,24 @@
 .logo-download-box.circle{
 }
 
+.logos-download .square-container:nth-child(2){
+	border-right: 1px solid var(--light-grey);
+}
+
+.square-container {
+	border-top: 1px solid var(--light-grey);
+	border-bottom: 1px solid var(--light-grey);
+	border-left: 1px solid var(--light-grey);
+}
+
+.square-container .logo-download-box.square:not(:first-child){
+	border-left: 1px solid var(--light-grey);
+}
 
 .logo-download-box.square {
 	width: 50%;
 	height: 188px;
-	border: 1px solid var(--light-grey);
+
 }
 
 .dark {
@@ -117,6 +156,8 @@
 		border-bottom: none;
 	}
 
+
+
 	.logo-download-box.rectangle {
 		border: 1px solid var(--light-grey);
 	}
@@ -130,6 +171,8 @@
 		width: 100%;
 	}
 
+
+
 	.logo-preview.rectangle {
 		max-width: 315px;
 	}
@@ -137,4 +180,12 @@
 	.no-padding-top {
 		padding-top: 0;
 	}
+}
+
+@media only screen and (max-width: 1024px) {
+
+	.logos-download .square-container:first-child{
+		border-bottom: 0px solid var(--light-grey) !important;
+	}
+
 }

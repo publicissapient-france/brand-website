@@ -9,7 +9,7 @@
 	<body>
 		<?php $page = "fonts"; ?>
 		<?php include('topbar.html');?>
-		
+
 		<div class="banner">
 			<div class="banner-content">
 				<div class="banner-logo">
@@ -28,41 +28,41 @@
 			</div>
 			<div class="download-link">
 
-			<div class="fonts-container">
-				<div class="single-font-container">
-					<div class="font-preview">
-						<h3>FUTURA NEXT</h3>
-						<h4>PRIMARY TYPEFACE</h4>
-						<p>Character</p>
-						<img src="./images/typo-futura.png">
-						<p>Style</p>
-						<img src="./images/typo-futura2.png">
-					</div>
+				<div class="fonts-container">
+					<div class="single-font-container">
+						<div class="font-preview">
+							<h3>FUTURA NEXT</h3>
+							<h4>PRIMARY TYPEFACE</h4>
+							<p>Character</p>
+							<img src="./images/typo-futura.png">
+							<p>Style</p>
+							<img src="./images/typo-futura2.png">
+						</div>
 						<a class="download-btn" href="./fonts/FuturaNext.zip">
 							<p><span class="red-text">O </span><span class="on-hover">Futura Next</span><span class="text-file-size"> (339 ko)</span></p>
 							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 						</a>
-				</div>
-
-				<div class="single-font-container">
-					<div class="font-preview">
-						<h3>MINION PRO</h3>
-						<h4>SECONDARY TYPEFACE</h4>
-						<p>Character</p>
-						<img src="./images/typo-minion.png">
-						<p>Style</p>
-						<img src="./images/typo-minion2.png">
 					</div>
+
+					<div class="single-font-container">
+						<div class="font-preview">
+							<h3>MINION PRO</h3>
+							<h4>SECONDARY TYPEFACE</h4>
+							<p>Character</p>
+							<img src="./images/typo-minion.png">
+							<p>Style</p>
+							<img src="./images/typo-minion2.png">
+						</div>
 						<a class="download-btn" href="./fonts/Minion.zip">
 							<p><span class="red-text">O </span><span class="on-hover">Minion Pro</span><span class="text-file-size"> (1.3 Mo)</span></p>
 							<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.5" height="21.5" viewBox="0 0 21.5 21.5"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#fe414d;}</style><clipPath id="a"><rect class="a" width="21.5" height="21.5"/></clipPath></defs><g class="b"><path class="c" d="M947.681,1009.25v21.5h21.5v-21.5Zm20,20h-18.5v-18.5h18.5Z" transform="translate(-947.681 -1009.25)"/><path class="c" d="M964.961,1020.53l-1.061-1.061-4.72,4.72V1014h-1.5v10.189l-4.72-4.72-1.061,1.061,6.53,6.53Z" transform="translate(-947.681 -1009.25)"/></g></svg>
 						</a>
+					</div>
 				</div>
+
+
+
 			</div>
-
-
-
-		</div>
 
 		<?php include('footer.php');?>
 

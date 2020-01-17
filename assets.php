@@ -9,7 +9,6 @@
 <body>
 <?php $page = "assets"; ?>
 <?php include('topbar.html');?>
-
 <div class="banner">
     <div class="banner-content">
         <div class="banner-logo">
@@ -20,7 +19,11 @@
 </div>
 
 <div class="content">
-
+    <div class="legend">
+        <ul class="un">
+            <li class="blue">C'est pour bientôt !</li>
+        </ul>
+    </div>
     <div class="card-container">
 
         <div class="card">
@@ -66,17 +69,6 @@
             </div>
         </div>
     </div>
-    <div>
-        <ul class="un">
-            <li class="bullet-blue">C'est pour bientôt !</li>
-        </ul>
-    </div>
-</div>
-
-
-
-
-
 <?php include('footer.php');?>
 </body>
 </html>

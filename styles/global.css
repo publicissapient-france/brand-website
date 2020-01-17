@@ -147,6 +147,35 @@ li.blue {
   font-size: 14px;
 }
 
+.link-btn {
+  display : flex;
+  height: 40px;
+  padding-left : 10px;
+  padding-right: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  color: var(--black);
+  fill: var(--ps-red);
+  border : 1px solid var(--light-grey);
+  border-radius : 4px;
+  transition: border 0.3s ease, color 0.3s ease;
+  text-decoration: none;
+}
+
+
+
+.link-btn:hover{
+  color: var(--ps-red);
+  border : 1px solid var(--ps-red);
+
+}
+
+.link-btn p {
+  font-size: 14px;
+}
+
 
 .color-black {background-color: var(--black);}
 .color-ps-red {background-color: var(--ps-red);}

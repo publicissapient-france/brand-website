@@ -20,7 +20,11 @@
 </div>
 
 <div class="content">
-
+    <div class="legend">
+        <ul class="un">
+            <li class="blue">C'est pour bientôt !</li>
+        </ul>
+    </div>
     <div class="card-container">
 
         <div class="card">
@@ -59,7 +63,7 @@
             </div>
         </div>
 
-        <div class="card large">
+        <div class="card ">
             <div class="cercle cercle-signature"></div>
             <h2>Signature</h2>
             <h3>JPG & PNG</h3>
@@ -72,7 +76,7 @@
             </div>
         </div>
 
-        <div class="card large">
+        <div class="card ">
             <div class="cercle cercle-techtrends"></div>
             <h2>Techtrends</h2>
             <h3>JPG & PNG</h3>
@@ -89,12 +93,6 @@
         <div class="card last"></div>
 
     </div>
-    <div>
-        <ul class="un">
-            <li class="bullet-blue">C'est pour bientôt !</li>
-        </ul>
-    </div>
-
 </div>
 
 <?php include('footer.php');?>
