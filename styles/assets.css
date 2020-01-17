@@ -7,13 +7,15 @@
 }
   
 .card{
-	flex-grow: 1;
+	/*flex-grow: 1;
     flex: 1 1 20%;
-    flex-wrap: nowrap;
+    flex-wrap: nowrap;*/
 	background: #FFFFFF;
 	padding: 30px;
-	width: 100px;
- 	height: 520px;
+	width:calc(100% / 3);
+	box-sizing : border-box;
+	/*width: 100px;
+ 	height: 520px;*/
 	text-align: center;
 	align-items: center;
 	border: 1px solid var(--light-grey);
@@ -98,7 +100,7 @@ li a:hover {
 		padding: 0;
 	}
 	.card {
-		width: auto;
+		width: 100%;
 		border-top: 0;
 	}
 	.card:last-child {
