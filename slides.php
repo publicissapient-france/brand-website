@@ -57,8 +57,8 @@
             <h3>JPG & GSLIDE</h3>
             <div class="liste">
                 <ul class="un">
-                    <li><a href="https://drive.google.com/open?id=1A-w14mrdMcevFlL0uKaLyjweyLcDxzav" target="new">Photos</a></li>
-                    <li><a href="https://drive.google.com/open?id=1Fpv0rJ9xM2SnckBqpy1lsp6U_iu9h1r1" target="new">CV</a></li>
+                    <li class="blue">Photos</li>
+                    <li><a href="https://docs.google.com/presentation/d/1lUmAoV1d-E_vWN8xRqN1DLCiPo5Ic_hA3TbhGvP92xk/edit?usp=sharing" target="new">CV</a></li>
                 </ul>
             </div>
         </div>
