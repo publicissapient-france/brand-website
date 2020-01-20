@@ -47,7 +47,7 @@
                 <ul class="un">
                     <li><a href="https://drive.google.com/open?id=1lJNS29F2f26Edx3_lUKorELESR5zLOrX" target="new">KED</a></li>
                     <li class="blue"><!--<li><a href="https://drive.google.com/open?id=1J1Q8Xg9jPJ_RoWGFlzqij9AF3ifvUpeF" target="new">-->Technos</li>
-                    <li><a href="https://drive.google.com/open?id=1-oTb4F7JitLvWpftfAn_5ouO7mQRjwji" target="new">Business</a></li>
+                    <li><a href="https://docs.google.com/presentation/d/1MHZIorKRJ805_8VFi-HAhoR_pdt554tScNIBfNMVHdY/edit?usp=sharing" target="new">Business</a></li>
                     <li class="blue">Sponsors</li>
                     <li><a href="https://drive.google.com/open?id=1kh0-zDcJ71WjEsS9AJrJ-6oU0JLekDIpIR4i_SSj7BQ" target="new">Events</a></li>
                 </ul>
