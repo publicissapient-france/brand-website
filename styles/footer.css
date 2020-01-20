@@ -1,5 +1,5 @@
 .menu-footer {
-	height: 50px;
+	height: 70px;
 	width: 100%;
   	position: fixed;
   	bottom: 0;
@@ -19,6 +19,7 @@
 
 @media only screen and (min-width: 1024px) {
 	.menu-footer {
+		height: 50px;
 		top: 0;
 		right: 60px;
 		width: auto;
