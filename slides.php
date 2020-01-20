@@ -33,7 +33,7 @@
             <h3>JPG & PNG</h3>
             <div class="liste">
                 <ul>
-                    <li><a href="https://drive.google.com/open?id=1U1sZuOuLPUTXChAKXi4HV0UB9mk7KIQq" target="new">Pictos</a></li>
+                    <li class="blue"><!--<a href="https://drive.google.com/open?id=1U1sZuOuLPUTXChAKXi4HV0UB9mk7KIQq" target="new">-->Pictos</li>
                     <li><a href="https://drive.google.com/open?id=1l7WeMraVKE0LhFznzbR1EvmbJ6KKB7M0" target="new">Bannières</a></li>
                 </ul>
             </div>
@@ -46,7 +46,7 @@
             <div class="liste">
                 <ul class="un">
                     <li class="blue"><!--<li><a href="https://drive.google.com/open?id=1VWHBjyLK2Zi4qeurkZmk0lv2gG5_RI6p" target="new">-->Talk</li>
-                    <li><a href="https://drive.google.com/open?id=1EbLQLC-avL5p0fcq0hCwHP-o94CHB6np" target="new">Corporate</a></li>
+                    <li><a href="https://drive.google.com/open?id=1renb8Kvr1oZcv6clQeMrYDpHKm_1jv1JotH53MOlEKQ" target="new">Corporate</a></li>
                 </ul>
             </div>
         </div>
@@ -58,7 +58,7 @@
             <div class="liste">
                 <ul class="un">
                     <li class="blue">Photos</li>
-                    <li><a href="https://docs.google.com/presentation/d/1lUmAoV1d-E_vWN8xRqN1DLCiPo5Ic_hA3TbhGvP92xk/edit?usp=sharing" target="new">Template CV</a></li>
+                    <li><a href="https://docs.google.com/presentation/d/1lUmAoV1d-E_vWN8xRqN1DLCiPo5Ic_hA3TbhGvP92xk" target="new">Template CV</a></li>
                     <li><a href="https://drive.google.com/open?id=1Fpv0rJ9xM2SnckBqpy1lsp6U_iu9h1r1" target="new">CV</a></li>
                 </ul>
             </div>
