@@ -4,7 +4,7 @@
     <title>Brand - Slides</title>
     <?php include('header.html'); ?>
     <link rel="stylesheet" type="text/css" href="./styles/banner.css">
-    <link rel="stylesheet" type="text/css" href="./styles/slides.css">
+    <link rel="stylesheet" type="text/css" href="styles/corporate.css">
 </head>
 <body>
 <?php $page = "slides"; ?>

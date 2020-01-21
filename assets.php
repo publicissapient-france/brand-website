@@ -33,7 +33,7 @@
             <div class="liste">
                 <ul>
                     <li><a href="https://drive.google.com/open?id=17TL9F4bPI_1L0PnAjwSctqWLqunPKkTm" target="new">Wallpaper</a></li>
-                    <li class="grey">Photos Corporate</li>
+                    <li><a href="https://drive.google.com/open?id=1OAKhlBYw8-nri9n3V7AiUISbg3WhSmUS" target="new">Photos Corporate</a></li>
                     <li class="grey">Illustrations</li>
                 </ul>
             </div>
