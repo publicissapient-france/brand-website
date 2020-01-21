@@ -69,6 +69,21 @@ li.blue {
   background-position-y: 12px;
 }
 
+li.grey {
+  font-family: FuturaNext, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 40px;
+  padding-left: 20px;
+  text-align: left;
+  list-style-type: none;
+  background-image: url(../images/bullet-grey.svg);
+  background-size: 12px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-position-y: 12px;
+}
+
 :root {
   --ps-red: #FE414D;
   --black: #000000;

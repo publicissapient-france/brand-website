@@ -21,7 +21,7 @@
 <div class="content">
     <div class="legend">
         <ul class="un">
-            <li class="blue">C'est pour bientôt !</li>
+            <li class="grey">C'est pour bientôt !</li>
         </ul>
     </div>
     <div class="card-container">
@@ -33,8 +33,8 @@
             <div class="liste">
                 <ul>
                     <li><a href="https://drive.google.com/open?id=17TL9F4bPI_1L0PnAjwSctqWLqunPKkTm" target="new">Wallpaper</a></li>
-                    <li class="blue">Photos Corporate</li>
-                    <li class="blue">Illustrations</li>
+                    <li class="grey">Photos Corporate</li>
+                    <li class="grey">Illustrations</li>
                 </ul>
             </div>
         </div>
@@ -47,9 +47,9 @@
                 <ul class="un">
                     <li><a href="https://drive.google.com/open?id=1lJNS29F2f26Edx3_lUKorELESR5zLOrX" target="new">KED</a></li>
                     <li><a href="https://docs.google.com/presentation/d/1rWdVwYhVNQli6W2NZHdH-f5p0TT01lWlZapEHynV3Po" target="new">Xtrem Archi</a></li>
-                    <li class="blue"><!--<li><a href="https://drive.google.com/open?id=1J1Q8Xg9jPJ_RoWGFlzqij9AF3ifvUpeF" target="new">-->Technos</li>
+                    <li class="grey"><!--<li><a href="https://drive.google.com/open?id=1J1Q8Xg9jPJ_RoWGFlzqij9AF3ifvUpeF" target="new">-->Technos</li>
                     <li><a href="https://docs.google.com/presentation/d/1MHZIorKRJ805_8VFi-HAhoR_pdt554tScNIBfNMVHdY" target="new">Business</a></li>
-                    <li class="blue">Sponsors</li>
+                    <li class="grey">Sponsors</li>
                     <li><a href="https://drive.google.com/open?id=1kh0-zDcJ71WjEsS9AJrJ-6oU0JLekDIpIR4i_SSj7BQ" target="new">Events</a></li>
                 </ul>
             </div>
@@ -64,7 +64,7 @@
                     <li><a href="https://docs.google.com/presentation/d/1VFlWyFM3swA8p4bDuxsHIYAqXHpttGqPBaIx4BVy94M" target="new">Expertises</a></li>
                     <li><a href="https://docs.google.com/presentation/d/14XLbfYUActGRUQl6_caop7-qwXwiJoQKV8v3HOfBxDg" target="new">Pictogrammes</a></li>
                     <li><a href="https://docs.google.com/presentation/d/1Cqd5IDxpnQn_f2upv3PXbu47WXuBb_VrACx2bs5xNOc" target="new">Data Science</a></li>
-                    <li class="blue">Design Sprint</li>
+                    <li class="grey">Design Sprint</li>
                 </ul>
             </div>
         </div>

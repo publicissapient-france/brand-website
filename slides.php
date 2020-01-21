@@ -22,7 +22,7 @@
 <div class="content">
     <div class="legend">
         <ul class="un">
-            <li class="blue">C'est pour bientôt !</li>
+            <li class="grey">C'est pour bientôt !</li>
         </ul>
     </div>
     <div class="card-container">
@@ -33,7 +33,7 @@
             <h3>JPG & PNG</h3>
             <div class="liste">
                 <ul>
-                    <li class="blue"><!--<a href="https://drive.google.com/open?id=1U1sZuOuLPUTXChAKXi4HV0UB9mk7KIQq" target="new">-->Pictos</li>
+                    <li class="grey"><!--<a href="https://drive.google.com/open?id=1U1sZuOuLPUTXChAKXi4HV0UB9mk7KIQq" target="new">-->Pictos</li>
                     <li><a href="https://drive.google.com/open?id=1l7WeMraVKE0LhFznzbR1EvmbJ6KKB7M0" target="new">Bannières</a></li>
                 </ul>
             </div>
@@ -45,7 +45,7 @@
             <h3>GSLIDE</h3>
             <div class="liste">
                 <ul class="un">
-                    <li class="blue"><!--<li><a href="https://drive.google.com/open?id=1VWHBjyLK2Zi4qeurkZmk0lv2gG5_RI6p" target="new">-->Talk</li>
+                    <li class="grey"><!--<li><a href="https://drive.google.com/open?id=1VWHBjyLK2Zi4qeurkZmk0lv2gG5_RI6p" target="new">-->Talk</li>
                     <li><a href="https://drive.google.com/open?id=1renb8Kvr1oZcv6clQeMrYDpHKm_1jv1JotH53MOlEKQ" target="new">Corporate</a></li>
                 </ul>
             </div>
@@ -57,7 +57,7 @@
             <h3>JPG & GSLIDE</h3>
             <div class="liste">
                 <ul class="un">
-                    <li class="blue">Photos</li>
+                    <li class="grey">Photos</li>
                     <li><a href="https://docs.google.com/presentation/d/1lUmAoV1d-E_vWN8xRqN1DLCiPo5Ic_hA3TbhGvP92xk" target="new">Template CV</a></li>
                     <li><a href="https://drive.google.com/open?id=1Fpv0rJ9xM2SnckBqpy1lsp6U_iu9h1r1" target="new">CV</a></li>
                 </ul>
@@ -71,8 +71,8 @@
             <div class="liste">
                 <ul class="un">
                     <li><a href="https://drive.google.com/open?id=1mqQUDeMz1-0MbnS6oOHGYLCTMR7lLVTs" target="new">Mail Corporate</a></li>
-                    <li class="blue">Events</li>
-                    <li class="blue">Annonces</li>
+                    <li class="grey">Events</li>
+                    <li class="grey">Annonces</li>
                 </ul>
             </div>
         </div>

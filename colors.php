@@ -155,7 +155,7 @@
 						<div class="color-attributes">
 							<p>RGB: 180, 180, 180</p>
 							<p>CMYK: 0, 0, 0, 29</p>
-							<p>&nbsp;</p>
+                            <p>Coated: PMS Cool Gray 7 C</p>
 							<p>&nbsp;</p>
 						</div>
 					</div>
