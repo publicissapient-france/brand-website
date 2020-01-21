@@ -95,6 +95,10 @@ li a:hover {
     padding-right: 20px;
 }
 
+.legend ul li{
+color : var(--black);
+}
+
 @media only screen and (max-width: 768px) {
     .card-container {
         flex-direction: column;
