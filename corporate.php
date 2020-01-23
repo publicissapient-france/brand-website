@@ -45,8 +45,7 @@
             <h3>GSLIDE</h3>
             <div class="liste">
                 <ul class="un">
-                    <li class="grey"><!--<li><a href="https://drive.google.com/open?id=1VWHBjyLK2Zi4qeurkZmk0lv2gG5_RI6p" target="new">-->Talk</li>
-                    <li><a href="https://drive.google.com/open?id=1renb8Kvr1oZcv6clQeMrYDpHKm_1jv1JotH53MOlEKQ" target="new">Corporate</a></li>
+                    <li><a href="https://drive.google.com/open?id=1atDbsrXvCw3wtIFbHNwJXmFfSpaD0p2Gock9tqcFutI" target="new">Corporate</a></li>
                 </ul>
             </div>
         </div>
