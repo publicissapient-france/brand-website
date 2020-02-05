@@ -1,5 +1,5 @@
 .card-container {
-    padding: 30px 20px;
+    padding: 30px 30px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -96,6 +96,7 @@
 h2 {
     text-transform: uppercase;
     padding: 30px 0px 20px 0px;
+    text-align: center;
 }
 
 h3 {
@@ -133,8 +134,18 @@ li a:hover {
     text-decoration: underline;
 }
 
+.legend {
+    padding-top: 0;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
 .legend ul li{
     color : var(--black);
+}
+
+.fonts-title {
+    padding: 0px 30px 10px 30px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -176,5 +187,9 @@ li a:hover {
 
     .legend {
         padding-bottom: 20px;
+    }
+
+    .fonts-title {
+        padding: 0px 30px 10px 30px;
     }
 }

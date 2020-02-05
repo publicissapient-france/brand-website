@@ -1,5 +1,5 @@
 .card-container {
-    padding: 30px 20px;
+    padding: 30px 30px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -90,8 +90,7 @@ li a:hover {
 }
 
 .legend {
-    padding-top: 30px;
-    padding-left: 20px;
+    padding-left: 30px;
     padding-right: 20px;
 }
 
@@ -99,10 +98,21 @@ li a:hover {
     color : var(--black);
 }
 
+.fonts-title {
+    padding: 0px 30px 10px 30px;
+}
+
+.title-lock {
+}
+
 @media only screen and (max-width: 768px) {
     .card-container {
         flex-direction: column;
         padding: 0;
+    }
+
+    .card-container h2 {
+        text-align: center;
     }
 
     .card {
@@ -127,5 +137,9 @@ li a:hover {
 
     .legend {
         padding-bottom: 20px;
+    }
+
+    .fonts-title {
+        padding: 0px 30px 10px 30px;
     }
 }
