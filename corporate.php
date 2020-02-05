@@ -26,7 +26,7 @@
     <div class="fonts-title">
         <div class="title-lock">
             <h2>
-                Toutes les outils Corporate
+                Tout les outils Corporate
                 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" x="0px" y="0px"
                      viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
                         <path d="M23.3,13.4h-2V9.7c0-3.5-2.8-6.3-6.3-6.3S8.7,6.2,8.7,9.7v3.7h-2c-0.2,0-0.3,0.1-0.3,0.3v12c0,0.2,0.1,0.3,0.3,0.3h16.7c0.2,0,0.3-0.1,0.3-0.3v-12C23.6,13.5,23.5,13.4,23.3,13.4z M18.4,9.7v3.7h-6.7V9.7c0-1.8,1.5-3.3,3.4-3.3S18.4,7.8,18.4,9.7z"/>
