@@ -5,9 +5,6 @@
 	padding: 30px 30px 10px 30px;
 }
 
-.fonts-title h2 {
-	margin-bottom: 20px;
-}
 
 .fonts-title p {
 	font-size: 14px;
@@ -89,6 +86,7 @@
 	font-family: Lato, sans-serif;
 	font-weight: 400;
 }
+
 
 @media only screen and (min-width: 1024px) {
 	.fonts-container {

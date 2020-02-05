@@ -22,10 +22,27 @@
 		<div class="content">
 
 			<div class="fonts-title">
-				<h2>FUTURA NEXT & MINION PRO</h2>
-				<p class="red-text">Quelles polices dois-je utiliser ?</p>
+                <div class="title-lock">
+                    <h2>
+                        FUTURA NEXT & MINION PRO
+                        <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" x="0px" y="0px"
+                             viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+                        <path d="M23.3,13.4h-2V9.7c0-3.5-2.8-6.3-6.3-6.3S8.7,6.2,8.7,9.7v3.7h-2c-0.2,0-0.3,0.1-0.3,0.3v12c0,0.2,0.1,0.3,0.3,0.3h16.7c0.2,0,0.3-0.1,0.3-0.3v-12C23.6,13.5,23.5,13.4,23.3,13.4z M18.4,9.7v3.7h-6.7V9.7c0-1.8,1.5-3.3,3.4-3.3S18.4,7.8,18.4,9.7z"/>
+                        </svg>
+                    </h2>
+
+                </div>
+
+
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30"><defs><style>.a{fill:none;}.b{clip-path:url(#a);}</style><path d="M64-75.25A11.763,11.763,0,0,1,52.25-87,11.763,11.763,0,0,1,64-98.75,11.763,11.763,0,0,1,75.75-87,11.763,11.763,0,0,1,64-75.25Zm0-22A10.261,10.261,0,0,0,53.75-87,10.261,10.261,0,0,0,64-76.75,10.261,10.261,0,0,0,74.25-87,10.261,10.261,0,0,0,64-97.25Z" transform="translate(-39 112)"/></defs></svg>
+
+                <p class="red-text">Quelles polices dois-je utiliser ?</p>
 				<p>Les deux types de caractères, <span>Futura Next</span> et <span>Minion Pro</span>, sont utilisés pour tous les actifs de marque et sont disponibles au téléchargement. Pour vous assurer que les polices s’affichent correctement sur des ordinateurs autres que PS, nous vous recommandons de créer des PDF avant d’envoyer des présentations à des destinataires externes, y compris des clients.</p>
 			</div>
+
+
+
+
 			<div class="download-link">
 
 				<div class="fonts-container">
