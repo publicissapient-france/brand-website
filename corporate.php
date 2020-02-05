@@ -40,6 +40,11 @@
     <div class="legend">
         <ul class="un">
             <li class="grey">C'est pour bientôt !</li>
+            <li class="blue-button"><svg expanded = "true" height = "40px" width = "22px" >
+                    <circle cx = "50%" cy = "50%" r = "5px"></circle>
+                    <circle class = "pulse" cx = "50%" cy = "50%" r = "6px"></circle>
+                    <circle class="circle-blue" cx = "50%" cy = "50%" r = "5px"></circle>
+                </svg>Nouveau !</li>
         </ul>
     </div>
     <div class="card-container">
@@ -74,7 +79,11 @@
             <div class="liste">
                 <ul class="un">
                     <li class="grey">Photos</li>
-                    <li><a href="https://docs.google.com/presentation/d/1lUmAoV1d-E_vWN8xRqN1DLCiPo5Ic_hA3TbhGvP92xk" target="new">Template CV</a></li>
+                    <li class="blue"><svg class = "button" expanded = "true" height = "40px" width = "22px" >
+                            <circle cx = "50%" cy = "50%" r = "5px"></circle>
+                            <circle class = "pulse" cx = "50%" cy = "50%" r = "6px"></circle>
+                            <circle class="circle-blue" cx = "50%" cy = "50%" r = "5px"></circle>
+                        </svg><a href="https://docs.google.com/presentation/d/1lUmAoV1d-E_vWN8xRqN1DLCiPo5Ic_hA3TbhGvP92xk" target="new">Template CV</a></li>
                     <li><a href="https://drive.google.com/open?id=1Fpv0rJ9xM2SnckBqpy1lsp6U_iu9h1r1" target="new">CV</a></li>
                 </ul>
             </div>
