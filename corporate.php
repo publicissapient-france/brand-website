@@ -37,7 +37,7 @@
 
     </div>
 
-    <div class="legend">
+    <div classx="legend">
         <ul class="un">
             <li class="grey">C'est pour bientôt !</li>
             <li class="blue-button"><svg expanded = "true" height = "40px" width = "22px" >
