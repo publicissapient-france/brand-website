@@ -78,7 +78,11 @@
             <h3>JPG & GSLIDE</h3>
             <div class="liste">
                 <ul class="un">
-                    <li class="grey">Photos</li>
+                    <li class="blue"><svg class = "button" expanded = "true" height = "40px" width = "22px" >
+                            <circle cx = "50%" cy = "50%" r = "5px"></circle>
+                            <circle class = "pulse" cx = "50%" cy = "50%" r = "6px"></circle>
+                            <circle class="circle-blue" cx = "50%" cy = "50%" r = "5px"></circle>
+                        </svg><a href="https://lion.app.box.com/s/pdbc5nblnj0swvxaxcc1g7lpu2irgwbw/folder/81565445808" target="new">Photos</a></li>
                     <li class="blue"><svg class = "button" expanded = "true" height = "40px" width = "22px" >
                             <circle cx = "50%" cy = "50%" r = "5px"></circle>
                             <circle class = "pulse" cx = "50%" cy = "50%" r = "6px"></circle>
