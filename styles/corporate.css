@@ -96,7 +96,6 @@
 h2 {
     text-transform: uppercase;
     padding: 30px 0px 20px 0px;
-    text-align: left;
 }
 
 h3 {
@@ -121,7 +120,7 @@ h3 {
 }
 
 ul {
-    margin: 0 auto;
+    margin-left: 30px;
 }
 
 li a:link, li a:visited {
@@ -191,6 +190,10 @@ li a:hover {
 
     .legend {
         padding-bottom: 20px;
+    }
+
+    ul {
+        margin-left: 30px;
     }
 
     .fonts-title {
