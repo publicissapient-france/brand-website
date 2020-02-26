@@ -97,7 +97,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 7, 159, 255</p>
-							<p>CMYK: 97, 38, 0, 0</p>
+							<p>CMYK: 70, 33, 0, 0</p>
 							<p>Coated: PMS 279 C</p>
 							<p>Uncoated: PMS 2925 U</p>
 						</div>
@@ -116,7 +116,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 255, 230, 59</p>
-							<p>CMYK: 0, 10, 77, 0</p>
+							<p>CMYK: 0, 0, 100, 0</p>
 							<p>&nbsp;</p>
 							<p>&nbsp;</p>
 						</div>
@@ -135,7 +135,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 0, 230, 195</p>
-							<p>CMYK: 100, 0, 15, 10</p>
+							<p>CMYK: 62, 0, 26, 00</p>
 							<p>&nbsp;</p>
 							<p>&nbsp;</p>
 						</div>
