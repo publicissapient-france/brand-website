@@ -59,7 +59,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 254, 65, 77</p>
-							<p>CMYK: 0, 74, 70, 0</p>
+							<p>CMYK: 0, 100, 65, 0</p>
 							<p>Coated: PMS 199 C</p>
 							<p>Uncoated: PMS 199 U</p>
 						</div>
