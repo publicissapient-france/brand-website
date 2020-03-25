@@ -88,7 +88,7 @@
                             <circle class = "pulse" cx = "50%" cy = "50%" r = "6px"></circle>
                             <circle class="circle-blue" cx = "50%" cy = "50%" r = "5px"></circle>
                         </svg><a href="https://docs.google.com/presentation/d/1lUmAoV1d-E_vWN8xRqN1DLCiPo5Ic_hA3TbhGvP92xk" target="new">Template CV</a></li>
-                    <li><a href="https://drive.google.com/open?id=1Fpv0rJ9xM2SnckBqpy1lsp6U_iu9h1r1" target="new">CV</a></li>
+                    <li><a href="https://drive.google.com/drive/u/0/folders/19HbsaYFF8H8d5zmxGf-9qjppqpeUKewJ" target="new">CV</a></li>
                 </ul>
             </div>
         </div>
