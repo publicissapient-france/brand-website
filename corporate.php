@@ -88,7 +88,7 @@
                             <circle class = "pulse" cx = "50%" cy = "50%" r = "6px"></circle>
                             <circle class="circle-blue" cx = "50%" cy = "50%" r = "5px"></circle>
                         </svg><a href="https://cv.xebia.fr/" target="new">Création CV</a></li>
-                    <li><a href="https://cv.xebia.fr/" target="new">CV</a></li>
+                    <li><a href="https://drive.google.com/drive/u/0/folders/19HbsaYFF8H8d5zmxGf-9qjppqpeUKewJ" target="new">CVs</a></li>
                 </ul>
             </div>
         </div>
