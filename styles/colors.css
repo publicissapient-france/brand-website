@@ -100,19 +100,18 @@
 }
 
 .copy-text {
-	background-color: #000000;
+	background-color: rgba(85, 85, 85, 0.95);
 	color: var(--white);
-	padding: 10px 20px;
+	border-radius: 6px;
+	padding: 5px;
 	position: absolute;
 	opacity: 0;
-	font-weight: 400;
-	font-size: 14px;
-	width: auto;
+	font-weight: 700;
+	font-size: 11px;
+	width: 88px;
+	height: 30px;
 	text-align: center;
 	transition: 0.5s;
-	white-space: nowrap;
-	align-self: center;
-  transition: 0.5s;
 }
 
 .main-colors .copy-text {
