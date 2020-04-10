@@ -116,11 +116,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 255, 230, 59</p>
-<<<<<<< Updated upstream
 							<p>CMYK: 0, 0, 100, 0</p>
-=======
-							<p>CMYK: 0, 10, 77, 0</p>
->>>>>>> Stashed changes
 							<p>&nbsp;</p>
 							<p>&nbsp;</p>
 						</div>
@@ -139,11 +135,7 @@
 						</div>
 						<div class="color-attributes">
 							<p>RGB: 0, 230, 195</p>
-<<<<<<< Updated upstream
 							<p>CMYK: 62, 0, 26, 00</p>
-=======
-							<p>CMYK: 100, 0, 15, 10</p>
->>>>>>> Stashed changes
 							<p>&nbsp;</p>
 							<p>&nbsp;</p>
 						</div>
@@ -163,11 +155,7 @@
 						<div class="color-attributes">
 							<p>RGB: 180, 180, 180</p>
 							<p>CMYK: 0, 0, 0, 29</p>
-<<<<<<< Updated upstream
                             <p>Coated: PMS Cool Gray 7 C</p>
-=======
-							<p>&nbsp;</p>
->>>>>>> Stashed changes
 							<p>&nbsp;</p>
 						</div>
 					</div>

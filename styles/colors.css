@@ -100,7 +100,6 @@
 }
 
 .copy-text {
-<<<<<<< Updated upstream
 	background-color: #000000;
 	color: var(--white);
 	padding: 10px 20px;
@@ -113,24 +112,6 @@
 	transition: 0.5s;
 	white-space: nowrap;
 	align-self: center;
-=======
-  background-color: rgba(85, 85, 85, 0.95);
-  color: var(--white);
-  border-radius: 6px;
-  padding: 5px;
-  position: absolute;
-  opacity: 0;
-  font-weight: 700;
-  font-size: 11px;
-  width: 88px;
-  height: 30px;
-  text-align: center;
-  transition: 0.5s;
-}
-
-.main-colors .copy-text {
-	margin-top: 52px;
->>>>>>> Stashed changes
 }
 
 .main-colors button:hover .copy-text, .not-main-colors button:hover .copy-text{
