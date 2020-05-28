@@ -13,5 +13,9 @@
 			<a class="background-link" href="logos.php"></a>
 		</div>
 		<?php include('footer.php');?>
+		<script type="text/javascript">
+        	tarteaucitron.user.googletagmanagerId = 'GTM-WP6H2D4';
+        	(tarteaucitron.job = tarteaucitron.job || []).push('googletagmanager');
+        	</script>
 	</body>
 </html>
